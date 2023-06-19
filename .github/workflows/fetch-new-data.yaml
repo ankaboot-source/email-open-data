@@ -1,0 +1,57 @@
+name: Update Open-Data
+on:
+  push:
+    branches: [auto_update]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Open Data
+        uses: actions/checkout@v2
+
+      - name: Fetch and update
+        run: |
+          ## Fetching
+          # Disposable
+          echo "Downloading disposable"
+          curl https://raw.githubusercontent.com/disposable/disposable-email-domains/master/domains.txt > new-disposable-email-domains.txt
+
+          echo "Downloading free providers 1/2"
+          # Free
+          curl https://raw.githubusercontent.com/Kikobeats/free-email-domains/master/domains.json | jq -r '.[]' > new-free-email-domains.txt
+          echo "2/2"
+          curl https://gist.githubusercontent.com/okutbay/5b4974b70673dfdcc21c517632c1f984/raw/free_email_provider_domains.txt >> new-free-email-domains.txt
+          echo "Sorting"
+          sort -u new-free-email-domains.txt > tmp ; mv tmp new-free-email-domains.txt
+
+          # ISP
+          echo "Downloading ISP domains"
+          curl https://raw.githubusercontent.com/Immortalin/email-domain-db/master/leadstage-email-domain-db-v1-20150907.csv | awk -F, 'NR > 1 {print $1}' | sort -u > ISP-domains.txt
+
+
+          ## Update
+          # Disposable
+          comm -23 <(sort -u new-disposable-email-domains.txt) disposable-email-domains.txt > tmp; cat tmp >> disposable-email-domains.txt
+          sort -u disposable-email-domains.txt > tmp ; mv tmp disposable-email-domains.txt
+
+          # Free (remove disposable)
+          comm -23 new-free-email-domains.txt disposable-email-domains.txt > free-email-domains.txt
+
+          ## Generate Json
+          jq -Rn '[inputs]' disposable-email-domains.txt > disposable-email-domains.json
+          jq -Rn '[inputs]' ISP-domains.txt > ISP-domains.json
+          jq -Rn '[inputs]' free-email-domains.txt > free-email-domains.json
+
+          # Commit to repo
+          git add disposable-email-domains.*
+          git add ISP-domains.*
+          git add free-email-domains.*
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -m "Update Open-Data on $(date)"
+          git push
+
