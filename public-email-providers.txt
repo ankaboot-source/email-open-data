@@ -185,7 +185,6 @@ ownmail.net
 petml.com
 planet.nl
 pm.me
-protonmail.com
 posteo.af
 posteo.at
 posteo.be
@@ -243,6 +242,7 @@ pressmail.ch
 proinbox.com
 promessage.com
 protomnmail.com
+protonmail.com
 qq.com
 rambler.ru
 rbox.co
