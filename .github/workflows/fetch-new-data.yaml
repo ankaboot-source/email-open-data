@@ -35,8 +35,9 @@ jobs:
           comm -23 <(sort -u new-disposable-email-domains.txt) disposable-email-domains.txt > tmp; cat tmp >> disposable-email-domains.txt
           sort -u disposable-email-domains.txt > tmp ; mv tmp disposable-email-domains.txt
 
-          # Free (remove disposable)
-          comm -23 new-free-email-domains.txt disposable-email-domains.txt > free-email-domains.txt
+          # Free
+          comm -23 new-free-email-domains.txt disposable-email-domains.txt > free-email-domains-1.txt # remove disposable
+          comm -23 free-email-domains-1.txt public-email-providers.txt > free-email-domains.txt # remove public
 
           ## Generate Json
           jq -Rn '[inputs]' disposable-email-domains.txt > disposable-email-domains.json
