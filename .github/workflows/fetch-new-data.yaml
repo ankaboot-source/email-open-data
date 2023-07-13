@@ -51,7 +51,7 @@ jobs:
           curl https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/edrop.txt >> banned_tmp.txt
           wget www.stopforumspam.com/downloads/listed_ip_365_ipv46_all.zip
           unzip listed_ip_365_ipv46_all.zip
-          cat listed_ip_365_ipv46_all.txt >> banned_tmp.txt
+          awk -F \" '{print $2}' listed_ip_365_ipv46_all.txt >> banned_tmp.txt
           curl https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt >> banned_tmp.txt
 
           # Commit to repo
