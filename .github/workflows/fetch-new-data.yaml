@@ -40,11 +40,6 @@ jobs:
           comm -23 new-free-email-domains.txt disposable-email-domains.txt > free-email-domains-1.txt # remove disposable
           comm -23 free-email-domains-1.txt public-email-providers.txt > free-email-domains.txt # remove public
 
-          ## Generate Json
-          jq -Rn '[inputs]' disposable-email-domains.txt > disposable-email-domains.json
-          jq -Rn '[inputs]' ISP-domains.txt > ISP-domains.json
-          jq -Rn '[inputs]' free-email-domains.txt > free-email-domains.json
-
           # Banned IP list
           curl https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop.txt > banned_tmp.txt
           curl https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop_ipv6.txt >> banned_tmp.txt
@@ -53,14 +48,19 @@ jobs:
           unzip listed_ip_365_ipv46_all.zip
           awk -F \" '{print $2}' listed_ip_365_ipv46_all.txt >> banned_tmp.txt
           curl https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt >> banned_tmp.txt
-
           sort -u banned_tmp.txt > banned.txt
+
+          ## Generate Json
+          jq -Rn '[inputs]' disposable-email-domains.txt > disposable-email-domains.json
+          jq -Rn '[inputs]' ISP-domains.txt > ISP-domains.json
+          jq -Rn '[inputs]' free-email-domains.txt > free-email-domains.json
+          jq -Rn '[inputs]' banned.txt > banned.json
 
           # Commit to repo
           git add disposable-email-domains.*
           git add ISP-domains.*
           git add free-email-domains.*
-          git add banned.txt
+          git add banned.*
 
       - name: Commit and push changes
         run: |
@@ -68,4 +68,3 @@ jobs:
           git config --global user.email "actions@github.com"
           git commit -m "Update Open-Data on $(date)"
           git push
-
