@@ -28,7 +28,8 @@ jobs:
           # ISP
           echo "Downloading ISP domains"
           curl https://raw.githubusercontent.com/Immortalin/email-domain-db/master/leadstage-email-domain-db-v1-20150907.csv | awk -F, 'NR > 1 {print $1}' | sort -u > ISP-domains.txt
-
+          cat ISP-domains.txt >> new-free-email-domains.txt
+          sort -u new-free-email-domains.txt > tmp ; mv tmp new-free-email-domains.txt
 
           ## Update
           # Disposable
