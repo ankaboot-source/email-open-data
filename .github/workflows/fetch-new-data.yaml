@@ -48,19 +48,19 @@ jobs:
           unzip listed_ip_365_ipv46_all.zip
           awk -F \" '{print $2}' listed_ip_365_ipv46_all.txt >> banned_tmp.txt
           curl https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt >> banned_tmp.txt
-          sort -u banned_tmp.txt > banned.txt
+          sort -u banned_tmp.txt > mailserver-banned-ips.txt
 
           ## Generate Json
           jq -Rn '[inputs]' disposable-email-domains.txt > disposable-email-domains.json
           jq -Rn '[inputs]' ISP-domains.txt > ISP-domains.json
           jq -Rn '[inputs]' free-email-domains.txt > free-email-domains.json
-          jq -Rn '[inputs]' banned.txt > banned.json
+          jq -Rn '[inputs]' mailserver-banned-ips.txt > mailserver-banned-ips.json
 
           # Commit to repo
           git add disposable-email-domains.*
           git add ISP-domains.*
           git add free-email-domains.*
-          git add banned.*
+          git add mailserver-banned-ips.*
 
       - name: Commit and push changes
         run: |
