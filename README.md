@@ -11,8 +11,10 @@ Description of files:
 - 🆓 free: free email providers (e.g. gmail.com)
 - 🚮 disposable: disposable email providers (e.g. yopmail.com)
 - 🌐 public: public email providers (e.g. pm.me)
+- 🗣️ isp: a list of isp providers (are added to free)
+- 🚫 banned: a list of banned ip addresses (e.g. previously used for spam)
 
-Domains may only be a member of one list.
+Domains may only be a member of one list. With the exception of ISP.
 Files are provided as txt and json for more convenient usage.
 
 ## ✨ Inspiration
@@ -23,3 +25,4 @@ Files are provided as txt and json for more convenient usage.
 - https://github.com/ihmpavel/free-email-domains-list
 - https://github.com/fnando/email_data
 - https://github.com/disposable/disposable
+- https://www.stopforumspam.com
