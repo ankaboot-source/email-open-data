@@ -54,10 +54,13 @@ jobs:
           awk -F \" '{print $2}' listed_ip_365_ipv46_all.txt >> banned_tmp.txt
           curl https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt >> banned_tmp.txt
 
+          sort -u banned_tmp.txt > banned.txt
+
           # Commit to repo
           git add disposable-email-domains.*
           git add ISP-domains.*
           git add free-email-domains.*
+          git add banned.txt
 
       - name: Commit and push changes
         run: |
