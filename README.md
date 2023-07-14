@@ -7,7 +7,7 @@ In an effort to create the most up-to-date list of domains, the database can be 
 
 Description of files:
 - 🆓 free: free email providers (e.g. gmail.com)
-- 🚮 disposable: [disposable](http://en.wikipedia.org/wiki/Disposable_email_address email providers (e.g. yopmail.com)
+- 🚮 disposable: [disposable](http://en.wikipedia.org/wiki/Disposable_email_address) email providers (e.g. yopmail.com)
 - 🌐 public: public email providers (e.g. pm.me)
 - 🗣️ isp: a list of isp providers (are added to free)
 - 🚫 banned: a list of banned mail server ip addresses (e.g. previously used for spam)
