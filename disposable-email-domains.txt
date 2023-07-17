@@ -9689,6 +9689,8 @@
 9ziqmkpzz3aif.ml
 9ziqmkpzz3aif.tk
 9zjz7suyl.pl
+Microsoft.XMLHTTP
+Msxml2.XMLHTTP
 a-1.site
 a-action.ru
 a-b.co.za
@@ -15298,6 +15300,7 @@ andhani.ml
 andia.services
 andinamotors.co
 andirinotel.xyz
+andlos77.shop
 andlume.com
 andmail.site
 andmeatballs.com
@@ -34754,6 +34757,7 @@ cimaclub.rocks
 cimaclub.social
 cimaclub.world
 cimaclub.zone
+cimagupy.online
 cimas.info
 cimkocar-lor.ru
 cimsimm.ga
@@ -45439,6 +45443,7 @@ doctxyle.gq
 doctxyle.ml
 doctxyle.tk
 docu.me
+document.body.style.visibility
 document.onreadystatechange
 document.title
 documentingyellowstone.com
@@ -46020,6 +46025,7 @@ dorrkupongen.com
 dorywalski.pl
 dosait.ru
 dosan12.com
+dosas54.shop
 doscobal.com
 dosirakm.com
 doska-brus-spb.ru
@@ -55361,6 +55367,7 @@ fgcart.com
 fgdg.de
 fgewrq.eu
 fgey.com
+fgfdgfd.tech
 fgfg999.com
 fgfpnd.rest
 fgfstore.info
@@ -73892,6 +73899,10 @@ imexcointernational.com
 imfilons.ru
 imfriendly.org
 imfsiteamenities.com
+img.src
+img.style.height
+img.style.visibility
+img.style.width
 imga.pl
 imgcdn.us
 imgjar.com
@@ -77752,6 +77763,7 @@ jasperrobot.com
 jaspertab.com
 jasperwrite.com
 jasperwrite.xyz
+jastrebofigor.site
 jasxft.fun
 jateamssign.cf
 jateamssign.ga
@@ -83546,6 +83558,7 @@ kpnaward.com
 kpnmail.nl
 kpnmail.org
 kpnplanet.nl
+kpoijoihhhh.online
 kpoker88.biz
 kpolikaret.ga
 kpooa.com
@@ -85419,6 +85432,7 @@ lawbmydi.ml
 lawbmydi.tk
 lawbrsoli.ru
 lawcenter-1.ru
+lawchacon.com
 lawdeskltd.com
 laweemx.ga
 lawenforcementcanada.ca
@@ -86675,6 +86689,7 @@ liadreamva.ga
 liadreamva.gq
 liadreamva.ml
 liadreamva.tk
+liajlo.com
 lialaise.tk
 lialc.com
 liam280.store
@@ -88447,6 +88462,9 @@ located6j.com
 locateme10.com
 locatesolar.com
 locating.page
+location.host
+location.pathname
+location.search
 locationans.ru
 locationlocationlocation.eu
 locationlose.com
@@ -90812,6 +90830,7 @@ magikalworld.com
 magikwarszawa.pl
 magilaclight.ru
 magim.be
+magimail.xyz
 magiushosting.site
 maglienflpocoprezzo.com
 maglo.sk
@@ -99239,6 +99258,7 @@ moeri.org
 moerss.com
 moesafv.space
 moesao.com
+moesasahmeddd.space
 moesian.com
 moesite.com
 moesns.com
@@ -99449,6 +99469,7 @@ monadi.ml
 monadium.net
 monadress.online
 monagame.club
+monaito.website
 monalisa-galway.com
 monalisadublin12.com
 monalisatouchmarketing.com
@@ -107519,6 +107540,7 @@ o3vgl9prgkptldqoua.tk
 o473ufpdtd.ml
 o473ufpdtd.tk
 o48ok.com
+o4ht5.anonbox.net
 o4pmme4o0r6jk48.xyz
 o4tnggdn.mil.pl
 o4zkthf48e46bly.cf
@@ -109941,6 +109963,7 @@ opendbs.org
 opende.de
 opendecoder.com
 opendiary.com
+opendigitalmail.net
 opendns.ro
 openeats.org
 openedtechfestival.info
@@ -120916,6 +120939,7 @@ quickmail.nl
 quickmail.rocks
 quickmail.ru
 quickmailgroup.com
+quickmailhub.app
 quickmakeupbag-shop.ru
 quickmove.pro
 quicknet.nl
@@ -127209,6 +127233,7 @@ rwbktdmbyly.auto.pl
 rwc.tw
 rwdd.com
 rwerghjoyr.cloud
+rwesfd2.shop
 rwgfeis.com
 rwhhbpwfcrp6.cf
 rwhhbpwfcrp6.ga
@@ -130360,6 +130385,7 @@ selamlarsx61621.ga
 selamsfjntvb36614.cf
 selamsfjntvb42336.ml
 selamtatube.com
+selandor.cloud
 selang3.xyz
 selang5.xyz
 selasa.me
@@ -137351,6 +137377,10 @@ statsondemand.com
 statsontime.com
 stattech.info
 statuaxkwo.space
+status.adult
+status.blocked
+status.faillisted
+status.needsreview
 status.vote
 statusa.shop
 statusers.com
@@ -142414,6 +142444,7 @@ tesmail.site
 tesoro.cl
 tesqas.online
 tesqwiklabsss.shop
+tesqwiklosfn.shop
 tesresidusdangereux.net
 tessaflower.com
 tessauto.info
@@ -143906,6 +143937,7 @@ thesistersvn.icu
 theskymail.com
 theslatch.com
 theslave.network
+thesmurfssociety.link
 thesnapmom.org
 thesneakerswarehouse.com
 thesoapmine.com
@@ -148260,6 +148292,7 @@ ttttttttt.com
 tttttyrewrw.xyz
 tttv1.com
 ttuckbokee.com
+ttumvy5.tech
 tturk.com
 ttusrgpdfs.pl
 ttweetlounget.site
@@ -158631,6 +158664,7 @@ window.adsbygoogle
 window.dataLayer
 window.livewire
 window.location
+window.location.href
 window.onload
 window.park
 windowconfigurator.com
@@ -161138,6 +161172,8 @@ xho8i.info
 xhomasx.com
 xhouse.xyz
 xhphtfvoit.ga
+xhr.onreadystatechange
+xhr.status
 xhr10.com
 xhrmtujovv.ga
 xhs.bet
