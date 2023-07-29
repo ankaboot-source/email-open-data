@@ -7,7 +7,7 @@ In an effort to create the most up-to-date list of domains, the database can be 
 
 Following files are available in JSON (default) and TXT format:
 - 🆓 [free](https://raw.githubusercontent.com/ankaboot-source/email-open-data/main/free-email-domains.json): free email providers (e.g. gmail.com)
-- 🚮 [disposable](): [disposable](http://en.wikipedia.org/wiki/Disposable_email_address) email providers (e.g. yopmail.com)
+- 🚮 [disposable](https://raw.githubusercontent.com/ankaboot-source/email-open-data/main/disposable-email-domains.json): [disposable](http://en.wikipedia.org/wiki/Disposable_email_address) email providers (e.g. yopmail.com)
 - 🌐 [public](https://raw.githubusercontent.com/ankaboot-source/email-open-data/main/public-email-providers.json): public email providers (e.g. pm.me)
 - 🗣️ [isp](https://raw.githubusercontent.com/ankaboot-source/email-open-data/main/ISP-domains.json): a list of isp providers (also included in free)
 - 🚫 [banned](https://raw.githubusercontent.com/ankaboot-source/email-open-data/main/mailserver-banned-ips.json): a list of banned mail server ip addresses (e.g. previously used for spam)
