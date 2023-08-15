@@ -29,7 +29,7 @@ jobs:
             echo "OpenWeb Proxy was not cloned successfully"
             exit 1
           fi
-          jq -Rn '[inputs]' proxylist.txt > proxylist.txt
+          jq -Rn '[inputs]' proxylist.txt > proxylist.json
           git add proxylist.txt
           git add proxylist.json
 
