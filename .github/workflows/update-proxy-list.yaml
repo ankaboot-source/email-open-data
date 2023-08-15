@@ -1,0 +1,41 @@
+name: Update Open-Data
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Open Data
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          pip install hatch
+
+      - name: Run OpenWeb Proxy
+        run: |
+          git clone https://github.com/ankaboot-source/openweb-proxy
+          if cd openweb-proxy; then
+            hatch run python -m openweb_proxy --timeout 15 --web ../proxylist.txt
+            cd ..
+          else
+            echo "OpenWeb Proxy was not cloned successfully"
+            exit 1
+          fi
+          jq -Rn '[inputs]' proxylist.txt > proxylist.txt
+          git add proxylist.txt
+          git add proxylist.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -m "Update Open-Data (proxy) on $(date)"
+          git push
