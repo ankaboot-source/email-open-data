@@ -1,4 +1,4 @@
-name: Update Open-Data
+name: Update Open-Data Proxies
 on:
   schedule:
     - cron: "0 0 * * *"
