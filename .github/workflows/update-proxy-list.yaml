@@ -2,6 +2,8 @@ name: Update Open-Data Proxies
 on:
   schedule:
     - cron: "0 * * * *"
+  push:
+    branches: [main]
 
 jobs:
   update:
