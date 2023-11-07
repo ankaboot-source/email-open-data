@@ -209,6 +209,7 @@ differentmail.com
 dir.bg
 diu.edu.bd
 djis.edu.sa
+dnyeemail.com
 doctors.org.uk
 dodo.com
 domaindiscover.com
@@ -321,6 +322,7 @@ go.mustangs.com
 goddess.com
 grenoble-em.com
 grinnell.edu
+gsfwg.com
 gulls.salisbury.edu
 gvtc.com
 hail2theskins.com
@@ -641,6 +643,7 @@ oimail.oi.com.br
 okstate.edu
 olemiss.edu
 onatoo.com
+onmail.com
 oopsmail.com
 open.by
 openmail.cc
@@ -710,6 +713,7 @@ redskinsultimatefan.com
 regis.edu
 rette.net
 riseup.net
+rjhhgl.com
 rmcad.edu
 rmit.edu.au
 rocketmail.som
@@ -1113,6 +1117,7 @@ worldpath.net
 writesoon.com
 wsu.edu
 wustl.edu
+wuvoo.com
 wvup.edu
 wyoming.com
 xmail.net
