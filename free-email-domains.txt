@@ -315,6 +315,8 @@ gmail.como
 gmail.de
 gmail.google.com
 gmu.edu
+gmx.info
+gmx.org
 go-irish.com
 go.cougars.com
 go.icq.com
@@ -359,6 +361,7 @@ ibat.ie
 ibest.com.br
 ic.ac.uk
 icloud.net
+icloud.nl
 icould.com
 icsolutions.com
 idigvideos.com
@@ -609,6 +612,7 @@ myspace.com
 myspartans.org
 myt.mu
 mywildmail.com
+myyahoo.com
 nccu.edu.tw
 ncmich.edu
 ncsu.edu
@@ -655,6 +659,7 @@ osu.edu
 oumail.ou.edu
 pakistani.ws
 parsimail.com
+passmail.net
 pattayacitythailand.com
 pcc.edu
 pcisys.net
@@ -943,6 +948,7 @@ urse.edu.mx
 us.rediff.com
 usc.edu
 usc.edu.au
+use.startmail.com
 usfca.edu
 usj.edu.mo
 utas.edu.au
@@ -962,6 +968,7 @@ uwosh.edu
 vanderbilt.edu
 vcu.edu
 verat.net
+verizonwireless.com
 versija.lv
 villanova.edu
 vivelared.com
