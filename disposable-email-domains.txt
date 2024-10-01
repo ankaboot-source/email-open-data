@@ -19130,6 +19130,7 @@ assist.monthoff.click
 assist.openinvestmentapp.com
 assist.staycation.click
 assist.termtimely.click
+assist.travelwifi.click
 assistance-bureautique.com
 assistedlivingfacilitesnearme.org
 assistedlivingfacilityfinder.org
@@ -29365,6 +29366,7 @@ boxmailbox.club
 boxmailers.com
 boxmailf.eu
 boxmailvn.com
+boxmailvn.space
 boxmy-files.online
 boxnavi.com
 boxofficevideo.com
@@ -31906,6 +31908,7 @@ byhabeo.space
 byhim.icu
 byhouse.icu
 byj53bbd4.pl
+byjfc.anonbox.net
 byke.com
 bykefu.online
 bykefu.site
@@ -33210,6 +33213,7 @@ capehearing.com
 capehu.ga
 capehu.ml
 capehu.tk
+caperapp.click
 caperucitasinlobo.com
 capetownactiva.com
 capetownexcursions.com
@@ -48471,6 +48475,7 @@ doityourself.com
 doix.com
 dok4.ru
 dokaker.xyz
+dokankoi.site
 dokast.xyz
 dokhanan.com
 dokifriends.info
@@ -67347,6 +67352,7 @@ gmx.hk
 gmx.ie
 gmx.li
 gmx.ne
+gmx.net.tr
 gmx.plus
 gmx.pt
 gmx.sg
@@ -69904,6 +69910,7 @@ gull-minnow.top
 gullaneplaygroup.com
 gulletdopeyledore.com
 gullivervip.space
+gulselensurme.cfd
 guman23.store
 gumaygo.com
 gumglue.app
@@ -100829,6 +100836,7 @@ marketing-formula-inform.ru
 marketing-new-info.ru
 marketing-services.net
 marketing-toos.com
+marketing.caperapp.click
 marketing.lu
 marketing.travelhub.click
 marketing.travellabs.click
@@ -114891,6 +114899,7 @@ ocna.info
 ocnegib.cf
 ocnegib.ga
 ocnegib.tk
+ococvmail.com
 ocoeezipz.com
 oconnoruk.co.uk
 ocotbukanmain.club
@@ -126255,6 +126264,7 @@ propinned.gq
 propinned.ml
 propinned.tk
 propoker.vn
+proporud.com
 proposal-store.site
 proposal.rebatesrule.net
 proppemus.cf
@@ -128573,6 +128583,7 @@ quereb.icu
 querl.xyz
 quertzs.com
 query.scamperly.click
+query.turnonhub.click
 querydirect.com
 queryshuttle.com
 queserchea.cf
@@ -128594,6 +128605,7 @@ question-app.com
 questionamusic.com
 questionlife.us
 questionman.biz
+questions.caperapp.click
 questions.feastday.click
 questions.vacly.click
 questionsystem.us
@@ -136370,6 +136382,7 @@ sales.getflip.click
 sales.lol
 sales.meetflip.click
 sales.theflip.click
+sales.travelwifi.click
 salesac.xyz
 salesaf.xyz
 salesbb.xyz
