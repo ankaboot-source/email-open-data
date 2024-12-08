@@ -19347,6 +19347,7 @@ assist.thecruise.click
 assist.thegambol.click
 assist.travelwifi.click
 assist.trycruise.click
+assist.turnonlabs.click
 assistance-bureautique.com
 assistance.galaday.click
 assistance.travelxp.click
@@ -20144,6 +20145,7 @@ austrycastillo.com
 aut.doramm.com.pl
 auta.host
 autaogloszenia.pl
+autarchy.academy
 autecrsmail.ru
 auth.legal
 auth.page
@@ -31428,6 +31430,7 @@ businessbookservice.org
 businessbrokermassachusetts.com
 businesscapital247.info
 businesscardcases.info
+businesscell.network
 businesscny.com
 businesscoachitalia.net
 businessconquerors.com
@@ -33787,6 +33790,7 @@ cardthis.com
 cardtribute.com
 care-breath.com
 care-me.shop
+care.caperapp.click
 care.feastday.click
 care.fliphq.click
 care.setoffly.click
@@ -86779,6 +86783,7 @@ kansascityquote.com
 kansascitystreetmaps.com
 kansasquote.com
 kanshopin.xyz
+kansn23.xyz
 kantad.co.kr
 kantal.buzz
 kantuki.com
@@ -105532,6 +105537,7 @@ minicamera-dv.info
 minicasiers.com
 minicooperspeed.com
 minifieur.com
+minii-market.xyz
 minikokul.net
 minikuchen.info
 minimail.club
@@ -128449,6 +128455,7 @@ pupleld.ru
 pupmail.store
 puppers.world
 puppetmail.de
+puppiesvalley.co
 puppy.com.my
 puppy.watch
 puppyhome.us
@@ -133400,6 +133407,7 @@ repomega4u.co.uk
 repormail.com
 reportdebugsoftware.com
 reportes.ml
+reportfresh.com
 reportgate.net
 reportne.xyz
 reportptol.tk
@@ -145777,6 +145785,7 @@ sozdaem-diety.ru
 sozdanie-websaita.ru
 sozfilmi.com
 sozialismusoderbarberei.vision
+sozux.org
 sozzlefdvb.space
 sp-aa.com
 sp-market.ru
@@ -155074,6 +155083,7 @@ thinwooldstiv.ml
 thinwooldstiv.tk
 thiolax.club
 thiolax.website
+thip-like.com
 third.vocalmajoritynow.com
 thirdage.com
 thirdbear.net
