@@ -17190,6 +17190,7 @@ and.ploooop.com
 and.pointbuysys.com
 and.poisedtoshrike.com
 and.wrengostic.com
+andalanglobal.dev
 andaluchic.net
 andaluxia.monster
 andbest.site
@@ -30038,6 +30039,7 @@ bm0371.com
 bm2fa.vn
 bm2grihwz.pl
 bm2md.anonbox.net
+bm4e7.anonbox.net
 bm4gm.anonbox.net
 bm4jb.anonbox.net
 bm4zj.anonbox.net
@@ -33499,6 +33501,8 @@ buttliza.info
 buttloads.com
 buttluvr.com
 buttmonkey.com
+button.disabled
+button.innerHTML
 buttonfans.com
 buttonrulesall.com
 buttwebcam.com
@@ -47200,6 +47204,10 @@ data-protect-job.com
 data-protect-law.com
 data-protection-solutions.com
 data.dropmail.me
+data.email
+data.error
+data.message
+data.status
 data1.nu
 data54.com
 dataaas.com
@@ -56989,6 +56997,8 @@ elelhal.xyz
 eleman34.com
 elemedialabs.com
 elememail.ru
+element.style.display
+element.textContent
 elementalstorm.com
 elementaltraderforex.com
 elementalwellnesscare.com
@@ -72008,6 +72018,7 @@ global-4d.com
 global-4d.online
 global-airlines.com
 global-loto.ru
+global-work.app
 global.coach
 global1markets.com
 global1trader.com
@@ -92464,6 +92475,7 @@ kak-gotovit-prosto.ru
 kak-gotovit-vkusno.ru
 kak-kypit-v-ukraine.online
 kaka.lol
+kaka0.kr
 kakadua.net
 kakao.world
 kakaofrucht.de
@@ -101648,6 +101660,13 @@ login-moon.xyz
 login-online-co-uk.buzz
 login-to.online
 login.microsoft-office.live
+loginBtn.innerHTML
+loginButton.disabled
+loginButton.style.cursor
+loginButton.style.opacity
+loginRegisterBtn.style.display
+loginRegisterText.textContent
+loginText.textContent
 loginadulttoys.com
 logincbet.asia
 logindominoonline.com
@@ -110794,6 +110813,7 @@ mem.variots.com
 memailme.co.uk
 memapp.com
 membed.xyz
+memberCenterDropdown.style.display
 memberblog.com
 memberdadu.com
 memberdds.org
@@ -113776,6 +113796,8 @@ modafinilrezeptfrei.space
 modaiptv.com
 modal-backdrop.show
 modal.dataset.showModal
+modalCurrencySymbol.textContent
+modalPriceDisplay.textContent
 modalova.biz
 modalova.online
 modalova.se
@@ -116910,6 +116932,7 @@ myhiteswebsite.website
 myhitorg.ru
 myhoanglantuvi.com
 myhobbies24.xyz
+myhochzeitsfilm.de
 myholidaymaldives.com
 myhomedecor101.xyz
 myhomedesigns.info
@@ -119725,6 +119748,7 @@ new.pointbuysys.com
 new.rr.com
 new.viola.gq
 new688e.ga
+newPassword.length
 newa.wtf
 newaddr.com
 newage.press
@@ -130086,6 +130110,7 @@ peakfree.org
 peakinbox.net
 peakkutsutenpojp.com
 peakpharmacy.shop
+peakpoppro.com
 peaksneakerjapan.com
 peaksun.com
 peakvisionhdtv.com
@@ -141717,6 +141742,11 @@ regishub.com
 registand.site
 register-form.online
 register.hzq.im
+registerBtn.innerHTML
+registerButton.disabled
+registerButton.style.cursor
+registerButton.style.opacity
+registerText.textContent
 registered.cf
 registerednurses.com
 registermerpatislot88.live
@@ -142510,6 +142540,7 @@ reservepart.ir
 reservoirsource.com
 reset-secure.com
 reset123.com
+resetEmailDisplay.textContent
 resetsecure.org
 resetsecurity.net
 resfe.com
@@ -142673,6 +142704,7 @@ resturaji.com
 restwin.com
 restyourlife.org
 result-api.shop
+result.data.details
 resultaat.marketing
 resultaatmarketing.com
 resultadodehoje.org
@@ -149775,6 +149807,10 @@ send22u.info
 send360.de
 send4.uk
 send624.com
+sendCodeBtn.disabled
+sendCodeBtn.innerHTML
+sendCodeBtn.style.cursor
+sendCodeBtn.style.opacity
 sendaljepit.site
 sendangagung.online
 sendanywhere.xyz
@@ -151569,6 +151605,7 @@ shop4seals.com
 shop4u2.com
 shopaa318.xyz
 shopaccco.com
+shopaccmmo.com
 shopaccvip.pro
 shopaepi.com
 shopaepi.net
@@ -158622,6 +158659,10 @@ submargmail.com
 submergeus.com
 submic.com
 submissive.com
+submitBtn.disabled
+submitBtn.innerHTML
+submitBtn.style.cursor
+submitBtn.style.opacity
 submitprofit.com
 submoti.ga
 submoti.gq
@@ -161464,6 +161505,7 @@ tarek-auth.com
 taresz.ga
 tarfand.city
 target35.ru
+targetStep.style.display
 targetachived.tk
 targetcom.com
 targetdb.com
@@ -167645,6 +167687,7 @@ toptransfer.gq
 toptransfer.ml
 toptransfer.tk
 toptravelbg.pl
+toptrend68.online
 toptrend777.ru
 toptrendnews.net
 topupheaven.com
@@ -173888,6 +173931,7 @@ user-report.site
 user.bottesuggds.com
 user.peoplesocialspace.com
 user.school
+userLoginStatus.email
 userbeam.com
 userbot.p-e.kr
 userbot.site
@@ -181715,9 +181759,15 @@ window.adsbygoogle
 window.changeMailbox
 window.currentLang
 window.dataLayer
+window.dispatchEvent
+window.isSubscribeTriggered
 window.livewire
 window.location
 window.location.href
+window.location.origin
+window.location.pathname
+window.memberEmail
+window.memberId
 window.onload
 window.park
 windowconfigurator.com
@@ -190101,6 +190151,7 @@ zelia.online
 zelikoper.store
 zelras.ru
 zeltool.xyz
+zelvo.nu
 zema-consulting.us
 zemail.ga
 zemail.ml
