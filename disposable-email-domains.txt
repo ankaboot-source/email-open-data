@@ -14,6 +14,7 @@
 00-tv.com
 00.msk.ru
 00.pe
+000-webmail.myhome-server.de
 00000000000.pro
 000000000000000.theworkpc.com
 000000pay.com
@@ -44,6 +45,11 @@
 000br88.com
 000email.com
 000webmail.ddnss.de
+000webmail.ddnss.org
+000webmail.dyn.ddnss.de
+000webmail.dyn.home-webserver.de
+000webmail.dyndns.ddnss.de
+000webmail.home-webserver.de
 000xxoo.com
 001.igg.biz
 0010.monster
@@ -130340,6 +130346,8 @@ ownrespects.host
 ownsyou.de
 ownyourapps.com
 ownyourown.today
+owo-mailteam.bond
+owo-mailteam.cyou
 owob.emltmp.com
 owohbfhobr.ga
 owoso.com
@@ -171896,6 +171904,7 @@ trash-mail.gq
 trash-mail.ml
 trash-mail.net
 trash-mail.tk
+trash-mail.webredirect.org
 trash-me.com
 trash.co.uk
 trash.vikt0ry.com
@@ -173471,6 +173480,7 @@ tunnell.org
 tunningmail.gdn
 tunrahn.com
 tunschs.ru
+tunthuta.com
 tunzees.com
 tuoficina.online
 tuofs.com
@@ -195532,3 +195542,5 @@ zzzmail.pl
 zzzpush.icu
 zzzz1717.com
 zzzzzzzzzzzzz.com
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.loseyourip.com
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.ooguy.com
