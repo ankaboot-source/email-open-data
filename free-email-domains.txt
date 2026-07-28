@@ -3,7 +3,6 @@
 000webmail.dyn-ip24.de
 000webmail.dyndns1.de
 007.hzeg.eu.org
-010530.xyz
 012mail.net
 020307.ccwu.cc
 05.actionvspot.com
@@ -109,7 +108,6 @@
 91az.net
 91eduwzmail.xyz
 98.actionvspot.com
-981027.xyz
 998852.xyz
 9k3r.com
 9l.sdfe.app
@@ -149,7 +147,6 @@ aidesigner.2bd.net
 aiedit.vip
 aigts.top
 airfryersbg.com
-aiuu.tech
 ajksdljaskldasd.cc.cd
 ak1314.eu.cc
 aklan.com
@@ -327,7 +324,6 @@ aws-mailer.dynv6.net
 axarnet.com
 ay.actionvspot.com
 ay.gardianwaves.org
-ayag.cloud
 ayload.bond
 azwildblue.com
 b.1116992.xyz
@@ -394,7 +390,6 @@ bresnan.com
 brihost.web.id
 brite-mail.com
 broadstripe.net
-brodipek.xyz
 broncos.uncfsu.edu
 brookdale.edu
 brtfsbht.xjcnsdevg.de5.net
@@ -648,6 +643,7 @@ etb.net.co
 etllao.com
 etzg.de5.net
 eua.sryze.cc
+evairo.fun
 evansville.net
 everest.edu
 example.n10.top
@@ -664,7 +660,6 @@ f7.airfryersbg.com
 fairpoint.net
 familysafeweb.net
 farmerstel.com
-farouter.tech
 fau.edu
 fb.airfryersbg.com
 fd.airfryersbg.com
@@ -698,6 +693,7 @@ gala.net
 galmail.co.za
 game-hub.cc.cd
 gamesense.eu.cc
+garod1.xyz
 gate.net
 gawetempmail.my.id
 gawetempmail.web.id
@@ -709,6 +705,7 @@ gepohwh.cn
 getemail.digital
 getemail.guru
 getemail.live
+getemail.space
 getgmail.cn
 getmail.no
 ggc.edu
@@ -963,6 +960,10 @@ iname.ru
 inbox.com.pk
 inbox.dvhbl.top
 inbox.om
+inboxfast.space
+inboxfly.space
+inboxly.website
+inboxopen.space
 indiana.edu
 indigo.ie
 inedu.tech
@@ -1305,6 +1306,8 @@ megaegg.ne.jp
 meilwuzus1.xyz
 members.rediff.com
 menara.ma
+meng2026.bond
+meng2026.cyou
 merrimack.edu
 mesh.ad.jp
 messagerie-13.sfr.fr
@@ -1328,6 +1331,7 @@ mitsumoto.com
 mm.rc0101.site
 mmail.wuwang1028.bond
 mobileemail.vodafonesa.co.za
+mockata.net
 monash.edu
 montclair.edu
 montessori.qld.edu.au
@@ -1666,7 +1670,7 @@ redskinsspecialteams.com
 redskinsultimatefan.com
 regis.edu
 rette.net
-rewermail.com
+rifqysaputra.dev
 riseup.net
 rjhhgl.com
 rmcad.edu
@@ -2019,6 +2023,7 @@ vcu.edu
 ve.airfryersbg.com
 vegan.qzz.io
 verat.net
+verel.online
 verizonwireless.com
 versija.lv
 vfre4w3.dynv6.net
