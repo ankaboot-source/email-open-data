@@ -28,6 +28,8 @@
 1u.sdfe.app
 20031227.de5.net
 20220108.xyz
+204901.xyz
+215.mico.de5.net
 215.singledog.net
 21sad.xyz
 2932919455.dynv6.net
@@ -38,11 +40,13 @@
 41eduwzmail.xyz
 423619.wherever.de5.net
 4degreez.com
+565886.xyz
 579199.xyz
 60gp.ovh.net
 67.niconico.ccwu.cc
 8-0.net
 81eduwzmail.xyz
+857.cc.cd
 8m.com
 8m.net
 8u8.hk
@@ -62,6 +66,7 @@ aa33.tech
 aa55.tech
 aanet.com.au
 aapt.com.au
+ab1.store
 abcopenai.eu.cc
 acatperson.com
 accesstoledo.com
@@ -83,7 +88,6 @@ aic.wa.edu.au
 aidesigner.2bd.net
 aigts.top
 ailovers.us.ci
-airakshar.online
 airmail.uron.de5.net
 ajksdljaskldasd.cc.cd
 ak1314.eu.cc
@@ -102,6 +106,7 @@ alsa.de5.net
 altonaps.vic.edu.au
 alum.com
 alumni.nd.edu
+alumni.plainsmontessori.org
 alwaysgrilling.com
 alwaysinthekitchen.com
 alwayswatchingmovies.com
@@ -110,8 +115,6 @@ amnet.net.au
 andersonuniversity.edu
 angelina.syrf109475.top
 angelo.edu
-animateany.com
-animoby.com
 anu.edu.au
 anymail.kify.com
 aojatd.uron.de5.net
@@ -126,7 +129,6 @@ api89891.eu.cc
 apicodex.xyz
 apiroot.vps.cd
 app.longlivethepeople.dpdns.org
-appbott.com
 appstate.edu
 aprava.com
 aquaqua.top
@@ -264,6 +266,7 @@ azwildblue.com
 b.729406.xyz
 badgers.com
 bahu.com
+bailmentmail.com
 baines.com
 baishun.ccwu.cc
 bak.rr.com
@@ -309,9 +312,7 @@ bnin.net
 bollywood2000.com
 boun.edu.tr
 box.punkt.pl
-boxmus.com
 brainsurfer.de
-brajraj.org
 brandeis.edu
 brandme.my.uy
 breede.co.za
@@ -332,7 +333,6 @@ buffalo.edu
 bulldogs.mgccc.edu
 bulloch.net
 business.smu.edu.sg
-bussaco.com
 buxianliang.fun
 buzzlemail.com
 bwm.de5.net
@@ -373,8 +373,8 @@ chat.free.fr
 chatgpt.qwen3-30b-a3b.xyz
 cheatasrule.com
 chengsu.dpdns.org
-chenyd.bond
 chet.ccwu.cc
+chetskr.work.gd
 chickliu.cc.cd
 chingf.cc.cd
 chmail.ir
@@ -406,7 +406,6 @@ columbia.edu.pe
 comcast.neg
 comcast.ney
 commufa.jp
-comproa.org
 computer.net
 computhouse.com
 conevyt.org.mx
@@ -431,7 +430,6 @@ crosspaths.net
 cse.unsw.edu.au
 csuglobal.edu
 csupomona.edu
-cte.de5.net
 cusd.claremont.edu
 cvcraft.ee.cd
 cvsend.ee.cd
@@ -442,7 +440,6 @@ cytanet.com.cy
 d.729406.xyz
 dada.net
 dal.ca
-damphen.org
 darden.virginia.edu
 darkemail.school
 davis.k12.ut.us
@@ -455,7 +452,6 @@ descriptivemail.com
 desslee.cc.cd
 det.indevs.in
 devils.com
-devmant.com
 dfghjertyh.dynv6.net
 dialrequest.com
 differentmail.com
@@ -464,8 +460,10 @@ dion.ne.jp
 dir.bg
 disney.ne.jp
 dispatch.nothing688.de5.net
+ditapi.info
 diu.edu.bd
 djis.edu.sa
+dma.yuzu.sryze.cc
 dmailp.cc.cd
 dnyeemail.com
 doctors.org.uk
@@ -482,6 +480,7 @@ draac.com
 dragonfans.com
 drakestate.edu
 dreamwiz.com
+dropinvo.com
 dschat.asia
 dslab.icu
 dti.ne.jp
@@ -503,20 +502,20 @@ echoharbor.in
 eclub.lv
 ecmelb.catholic.edu.au
 ecomail.org
+eddiedoormaster.co.uk
 edu.aigogo.pro
 edu.cn.imgapi.eu.org
 edu.com.112886.xyz
 edu.cy5u.com
 edu.de.christkingschool.space
 edu.eu.112886.xyz
-edu.isouju.com
 edu.jstyo.com
 edu.kg.112886.xyz
 edu.ql2.de5.net
-edu.radixled.com
 edu.risai.store
 edu.sohaoju.com
 edu.tapnev.com
+edu.tesdiy.com
 edu.yongpeng.us.ci
 edumail.co.za
 edumax.edu.vn
@@ -546,6 +545,7 @@ email.vccs.edu
 emailman.com
 emailme.nu
 emailn.de
+emailqu.com
 emailsites.tripod.com
 embroideryforums.com
 emirates.net.ae
@@ -592,7 +592,6 @@ fluix.qzz.io
 fmnb5849.online
 fnwusers.com
 foic.top
-fordemy.com
 fpt.edu.vn
 free-email-address.com
 free.net.nz
@@ -604,12 +603,14 @@ freemail.ne.jp
 freemyops.com
 froggy.com.au
 fullsail.edu
+fuyunapi.com
 g2a.resou.shop
 gala.net
 galaxygas.cc
 galmail.co.za
 gamesense.eu.cc
 gate.net
+gaziw.com
 geling@hawaii.edu
 georgetown.edu
 georgiasouthern.edu
@@ -620,8 +621,8 @@ ggc.edu
 gheo.top
 gilberta.syrf109475.top
 gilbertschool.org
-githubc.ccwu.cc
 gjk.dk
+gk.tatin.me
 glasswhitehub.com
 global-1.huggingface.qzz.io
 globalcampus.edu.pl
@@ -645,8 +646,6 @@ go.cougars.com
 go.icq.com
 go.mustangs.com
 goddess.com
-googlec.cc.cd
-googlec.ccwu.cc
 gov.555016.xyz
 gpt-mail-free-1200.dynv6.net
 gpt-mail-free-140.dynv6.net
@@ -750,13 +749,9 @@ gpt-mail-free-9825.dynv6.net
 gpt-mail-free-9935.dynv6.net
 gpt.pacefree.com
 gpt.xchanlife.com
-gptc.ccwu.cc
-greatmail.uz.ua
 grenoble-em.com
 grinnell.edu
 grok.910321.xyz
-grokc.ccwu.cc
-grovane.com
 gsfwg.com
 gtfacintl.com
 gthyjuytr.dynv6.net
@@ -764,7 +759,6 @@ gulls.salisbury.edu
 guyuan.ccwu.cc
 gvtc.com
 gxyzhou.com
-hai666.sbs
 hail2theskins.com
 hajar.tech
 hallmarkcollege.edu
@@ -785,6 +779,7 @@ hccpmall.com
 hct.ac.ae
 hec.ca
 hellokimigugu.sryze.cc
+helmirfansah.com
 hgu717.ninja
 hi-ho.ne.jp
 hidepost.net
@@ -822,6 +817,7 @@ hws.edu
 ibat.ie
 ibest.com.br
 ic.ac.uk
+icloud.85457672.xyz
 icloud.net
 icloud.nl
 icould.com
@@ -895,7 +891,6 @@ isu.edu
 itchetumal.edu.mx
 itctel.com
 itelgua.com
-ittiv.com
 iupui.edu
 ius.edu
 ivytech.edu
@@ -910,6 +905,7 @@ jiujiu.hexname.com
 jk8h.info
 jpg.ir
 juka.pekk@suomi24.fi
+junhuang.cloud
 k0jbs5hm.ccwu.cc
 k12coffee.net
 kaiy.dpdns.org
@@ -955,7 +951,7 @@ lavacheautomatique.com
 law.ac.uk
 ldsda.hexname.com
 le.ac.uk
-legadmin.org
+learntojugg.com
 lengyuesky.ggff.net
 lermane.33mail.com
 letter.sobe.de5.net
@@ -977,6 +973,7 @@ logantele.com
 login.live.com
 login.yahoo.com
 london.ir
+lorranboss.shop
 louisville.edu
 love2exercise.com
 love2workout.com
@@ -1017,7 +1014,6 @@ lyxj71mnr.cn
 lyxm65yyl.cn
 lyy21lzw.cn
 lyyt34ga.cn
-m.114568.xyz
 m.hexname.com
 m1.lx1qzz.qzz.io
 mackillop.vic.edu.au
@@ -1039,7 +1035,6 @@ mail.b-3.huggingface.qzz.io
 mail.b-6.kpe.de5.net
 mail.capperflag.top
 mail.chek.com
-mail.churchinsouthampton.org.uk
 mail.cityofcarrollton.com
 mail.danworld.com
 mail.dcqrr.top
@@ -1049,6 +1044,7 @@ mail.frink.huggingface.qzz.io
 mail.funs.co.uk
 mail.fxtx.top
 mail.g-1.vactor1.us.ci
+mail.g-10.vactor1.us.ci
 mail.g-2.vactor1.us.ci
 mail.g-3.vactor1.us.ci
 mail.g-4.vactor1.us.ci
@@ -1080,7 +1076,6 @@ mail.lycos.com
 mail.magicyue.top
 mail.med.umich.edu
 mail.net.sa
-mail.nku.asia
 mail.nothing688.ccwu.cc
 mail.nothing688.de5.net
 mail.oopenclaw.eu.cc
@@ -1154,6 +1149,7 @@ mali.729406.xyz
 manx.net
 markaihub.shop
 markstonehub.org
+maskasir.web.id
 masters.edu
 masupost.tokenized.name
 masurii.tokenized.name
@@ -1165,6 +1161,7 @@ mcmaster.ca
 mcn.org
 mcom.com
 mctc.edu
+mcxml.com
 mdc.edu
 mea.0316.eu.cc
 mebwail.bur.st
@@ -1174,7 +1171,6 @@ mega-schlau.de
 megaegg.ne.jp
 meilwuzus1.xyz
 mellowwish.angelina.syrf109475.top
-meltcoo.com
 members.rediff.com
 menara.ma
 merrimack.edu
@@ -1202,7 +1198,6 @@ mkxlu9.sowhy.de5.net
 mm.rc0101.site
 mmail.wuwang1028.bond
 mobileemail.vodafonesa.co.za
-momroad.org
 monas1.asia
 monash.edu
 montclair.edu
@@ -1328,7 +1323,6 @@ mui876.cf
 mui876.gq
 mui876.tk
 mustangs.com
-mvfernando.rf.gd
 mvtvwireless.com
 mxmv.top
 my.bcit.ca
@@ -1355,12 +1349,10 @@ myt.mu
 mywildmail.com
 myyahoo.com
 mzl2wvp6.nsmjj.tech
-mzli.cc.cd
 n5.jesys.net
 nagisa.eu.cc
 naifeistation.com
 naraka.eu.cc
-naserchikmail.com
 nb.syh.888.moe
 nb.syh.cnkmmk.win
 nb.syh.evv.me
@@ -1381,6 +1373,8 @@ netmail.verizon.net
 netmymail.com
 netnitco.net
 neverlose.eu.cc
+nevinxu.cc.cd
+nevinxu.ccwu.cc
 news.sowhy.de5.net
 nexicom.net
 ngamail.net
@@ -1389,13 +1383,13 @@ niconico.ccwu.cc
 nifty.com
 nifty.ne.jp
 nilufa.kuromee.com
+nimbusreach.info
 njit.edu
 nmsu.edu
 nom-prenom.com
 nonomail.com
 nooboy.com
 notify.nothing688.de5.net
-novelv.com
 nowmail.co.nz
 nownuri.net
 ns.sympatico.ca
@@ -1430,7 +1424,6 @@ onatoo.com
 onmail.com
 oopsmail.com
 open.by
-opencodec.cc.cd
 openmail.cc
 openstudy.edu.pl
 optimum.com
@@ -1527,7 +1520,6 @@ rasmussen.edu
 rdevmail.tokenized.name
 realtravelfan.com
 rebels.com
-redlions.co
 redskinscheer.com
 redskinsfamily.com
 redskinsfancentral.com
@@ -1540,6 +1532,7 @@ remixskill.com
 ren8fdcq.xyz
 rette.net
 riseup.net
+rith.me
 rjhhgl.com
 rmcad.edu
 rmit.edu.au
@@ -1552,19 +1545,19 @@ rxpost.net
 ryerson.ca
 rymtool.eu.cc
 s2w.cc.cd
-s6.airfryersbg.com
 safat.info
 safe-mailbox.com
 safemail.site
 saic.edu
 saigonnet.vn
 salmiya.biz
-samscriptsolutions.com
 samuiclub.com
 sasktel.net
+savatv.com
 sbcglobakl.net
 sbcglofbal.net
 sbcgobal.net
+scammed.site
 scdhools.nyc.gov
 scheint.so
 schools.sa.edu.au
@@ -1605,13 +1598,14 @@ sky.tkc.ne.jp
 sky.tkk.ne.jp
 sky.tu-ka.ne.jp
 skyafrica.co.za
+skyprofy.com
 sloane.com
+smail.pw
 smartemail.co.uk
 smc.edu
 smoove.org
 smu.edu
 smude.edu.in
-smvmail.com
 sn6fk3.nsmjj.tech
 so-net.ne.jp
 solalto.edu.gt
@@ -1619,7 +1613,6 @@ somestoneair.shop
 sou.edu
 spaaqs.ne.jp
 spamcop.net
-spamok.nl
 speakeasy.net
 speedymail.net
 spexe.org
@@ -1716,18 +1709,16 @@ tas.edu.tw
 tastel.net.au
 tc3net.com
 tcu.edu
-tds.kdns.fr
 teenmail.co.za
-temeilo.com
 temp-email.de5.net
 temp-mail-free.dynv6.net
+temp-mail.edu.rs
 temp-mailer.dynv6.net
 temp.sowhy.de5.net
 temp2.qzz.io
 tempemail.nyc.mn
 temple.edu
-tempmail.ai
-tempmail.edu.ge
+tempmailapi.io.vn
 tempomail.sbs
 temporam.shop
 tenison.catholic.edu.au
@@ -1748,9 +1739,9 @@ tm.515666.xyz
 tm.622221.xyz
 tm.spkun.org
 tokai.or.jp
-tokenedu.cfd
 tokenizer.qwen3-30b-a3b.xyz
 tomail.cc.cd
+toondot.com
 totalfoodnut.com
 totally-into-cooking.com
 totallyintobaseball.com
@@ -1768,6 +1759,7 @@ travel2newplaces.com
 triton.net
 troycable.net
 truman.edu
+trumpetity.com
 truvista.net
 ttmail.com
 ttnet.com.tr
@@ -1815,7 +1807,6 @@ unendlich-schlau.de
 uni.canberra.edu.au
 uni.edu
 uniandes.edu.co
-unic0rn.cc.cd
 unimelb.edu.au
 unique.edu.pk
 uniquefox.xyz
@@ -1826,12 +1817,14 @@ unitir.edu.al
 unl.edu
 uno.edu
 unomaha.edu
+unskin.yuzu.sryze.cc
 unsw.edu.au
 unt.edu
 uon.edu.au
 uottawa.ca
 uowmail.edu.au
 upr.edu
+upstary.com
 uq.edu.au
 uqconnect.edu.au
 uqmobile.jp
@@ -2012,7 +2005,6 @@ webseom.com
 webspawner.com
 wedwe.eu.cc
 weirdness.com
-werucbai.com
 westvic.com.au
 wfu.edu
 wgu.edu
@@ -2043,7 +2035,6 @@ work.2026157.xyz
 workingaroundthehouse.com
 workingonthehouse.com
 worldpath.net
-wplacetools.com
 writesoon.com
 wsu.edu
 wustl.edu
@@ -2060,7 +2051,7 @@ xiaolajiao.dedyn.io
 xiaolajiao.tech
 xiejiang.site
 xiejiang.us.ci
-xin888.cfd
+xklym.com
 xmail.net
 xnet.co.nz
 xtramail.xtra.co.nz
@@ -2090,8 +2081,8 @@ ymee.eu.cc
 yml666.cc.cd
 ymobile.ne.jp
 ymobile1.ne.jp
+ymso.yuzu.sryze.cc
 ymze.eu.cc
-your-temp-mail.info
 your.hispeed.ch
 yp3opv8k.xyz
 ys.deepl.cc.cd
@@ -2106,14 +2097,13 @@ yyds.729406.xyz
 yyds.lkberich.online
 yyds.mail.13140905.xyz
 yyds.mcmdo.com
-yydsmail-verify.roydust.top
 yydsmail.cckff.ggff.net
 zaq.ne.jp
 zelnro.com
 zen.co.uk
 zeppost.com
+zeystair.sbs
 zgx7jfa.nsmjj.cc.cd
-zhaoyang.school
 zheye.dickdns.org
 zi7z88eo.mailosaur.net
 zimbra.aliceadsl.fr
