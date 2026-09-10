@@ -6,9 +6,7 @@
 012mail.net
 020307.ccwu.cc
 07210d00.dpdns.org
-0d.rainsase.com
 0m0.abrdns.com
-0w.rainsase.com
 10011.hzeg.eu.org
 100811.xyz
 10086.hzeg.eu.org
@@ -31,18 +29,13 @@
 215.mico.de5.net
 215.singledog.net
 21sad.xyz
-24.firegameplay.com
 2932919455.dynv6.net
 2birs.ccwu.cc
 2iij.net
-3t.rainsase.com
 423619.wherever.de5.net
-43.rainsase.com
 4degreez.com
 579199.xyz
-5b.firegameplay.com
 60gp.ovh.net
-668mail.com
 67.niconico.ccwu.cc
 8-0.net
 8m.com
@@ -55,7 +48,6 @@ VFEmail
 a.lacdn.cn
 a0.engineer
 a0.jesys.net
-a1.foodhz.com
 aa55.tech
 aanet.com.au
 aapt.com.au
@@ -98,6 +90,7 @@ allsportsrock.com
 altonaps.vic.edu.au
 alum.com
 alumni.nd.edu
+alumni.plainsmontessori.org
 alwaysgrilling.com
 alwaysinthekitchen.com
 alwayswatchingmovies.com
@@ -115,7 +108,6 @@ aojatd.uron.de5.net
 aol.in
 aolchat.fr
 aolmail.aol.com.br
-aooi.cc.cd
 aool.com
 apedesigns.jo3.org
 api-v1.cc.cd
@@ -145,7 +137,6 @@ astound.net
 astralis.cn
 asu.edu
 au.com
-au.rainsase.com
 aucegypt.edu
 aug.com
 augrisai.cc.cd
@@ -262,6 +253,7 @@ azwildblue.com
 b.729406.xyz
 badgers.com
 bahu.com
+bailmentmail.com
 baines.com
 bak.rr.com
 baker.edu
@@ -308,9 +300,9 @@ bne.catholic.edu.au
 bnin.net
 bogchi.com
 bollywood2000.com
-boosthub.live
 boun.edu.tr
 box.punkt.pl
+boxmus.com
 brainsurfer.de
 brajraj.org
 brandeis.edu
@@ -327,6 +319,7 @@ bryantstratton.edu
 bsb.cc.cd
 bscse.okcx.edu.rs
 bse.vic.edu.au
+bsget.com
 bsu.edu
 btzca8.nsmjj.cc.cd
 bu.edu
@@ -335,7 +328,6 @@ bulldogs.mgccc.edu
 bulloch.net
 business.smu.edu.sg
 bussaco.com
-buxianliang.fun
 buzzlemail.com
 bwm.de5.net
 byui.edu
@@ -359,6 +351,7 @@ cartooners.com
 case.edu
 catalunyamail.com
 catcat.uk
+catchmail.io
 cbcfremantle.wa.edu.au
 cbn.net.id
 cc.utulsa.edu
@@ -366,7 +359,6 @@ ccc.com
 ccpsnet.net
 cegil.id
 cen.edu.au
-censorshap.com
 cercaziende.it
 cgps.org
 chariot.net.au
@@ -431,7 +423,6 @@ cse.unsw.edu.au
 csuglobal.edu
 csupomona.edu
 cusd.claremont.edu
-custemail.xyz
 cvcraft.ee.cd
 cvsend.ee.cd
 cx.lsa1230.dpdns.org
@@ -458,7 +449,6 @@ devils.com
 devmant.com
 devpoet.com
 dfghjertyh.dynv6.net
-dh.firegameplay.com
 dialrequest.com
 differentmail.com
 digial.jo3.org
@@ -466,7 +456,6 @@ dion.ne.jp
 dir.bg
 disney.ne.jp
 dispatch.nothing688.de5.net
-ditapi.info
 diu.edu.bd
 djis.edu.sa
 dma.yuzu.sryze.cc
@@ -544,7 +533,6 @@ embroideryforums.com
 emirates.net.ae
 emnet.ne.jp
 emobile.ne.jp
-enajsndasd.eu.cc
 enterate.com.ar
 entusiastisk.com
 enusmail.com
@@ -580,6 +568,7 @@ fioptics.com
 fivestar.edu.au
 flash.ro
 flashmail.club-internet.fr
+flenqu.com
 flowmail.site
 fluix.qzz.io
 fnwusers.com
@@ -590,7 +579,6 @@ free-email-address.com
 free.net.nz
 free.os.pl
 free.za-mail.de
-free2access.com
 freechal.com
 freemail.aussiemail.com.au
 freemail.ne.jp
@@ -604,7 +592,6 @@ galmail.co.za
 gamesense.eu.cc
 garap.id
 gate.net
-gaziw.com
 geling@hawaii.edu
 georgetown.edu
 georgiasouthern.edu
@@ -625,6 +612,11 @@ gmail.como
 gmail.de
 gmail.google.com
 gmail.h5ma.cn
+gmailaoi.com
+gmailenzo.com
+gmailmurad.com
+gmailqi.com
+gmailyue.com
 gmu.edu
 gmx.info
 gmx.org
@@ -632,7 +624,6 @@ go-irish.com
 go.cougars.com
 go.icq.com
 go.mustangs.com
-gobeep.33mail.com
 goddess.com
 gov.555016.xyz
 gpt-mail-free-1200.dynv6.net
@@ -740,7 +731,6 @@ grenoble-em.com
 grinnell.edu
 grovane.com
 gsfwg.com
-gtabooost.net
 gtfacintl.com
 gthyjuytr.dynv6.net
 guddu.live
@@ -770,7 +760,6 @@ hct.ac.ae
 hec.ca
 hgu717.ninja
 hi-ho.ne.jp
-hidepost.net
 hidesit.net
 hightech.jo3.org
 hillsdale.edu
@@ -846,6 +835,7 @@ iname.ru
 inbox.com.pk
 inbox.om
 inbox.uron.de5.net
+inboxlyo.com
 indiana.edu
 indigo.ie
 inet.com.ua
@@ -866,7 +856,6 @@ ipstarmail.com.au
 isage.net.au
 iscte-iul.pt
 islander.tamucc.edu
-israeloil.abrdns.com
 ist-der-mann.de
 ist-der-wahnsinn.de
 ist-echt.so
@@ -878,13 +867,14 @@ isu.edu
 itchetumal.edu.mx
 itctel.com
 itelgua.com
+itezer.com
 iupui.edu
 ius.edu
 ivytech.edu
 iwatchrealitytv.com
 izimybes.lt
-j8.foodhz.com
 jamadots.com
+jaspelo.com
 jcom.zaq.ne.jp
 jcu.edu
 jemimi.net
@@ -894,7 +884,6 @@ jienan.hexname.com
 jiujiu.hexname.com
 jk8h.info
 jpg.ir
-jphonet.com
 juka.pekk@suomi24.fi
 k0jbs5hm.ccwu.cc
 k12coffee.net
@@ -975,7 +964,6 @@ lpemail.com
 lsjd.ccwu.cc
 lsp.lsa1230.dpdns.org
 lsu.edu
-lt.rainsase.com
 ltusd.org
 lujian.de5.net
 lumenbay.info
@@ -995,7 +983,6 @@ mag-spam.net
 magik-net.com
 maika.eu.cc
 mail-atlas.net
-mail-burn.com
 mail-online.dk
 mail.1134511.xyz
 mail.163.com
@@ -1100,11 +1087,13 @@ mailbox.wherever.de5.net
 mailcenter.comcast.net
 mailcircuit.com
 maildrop.sobe.de5.net
+mailfable.com
 maill.wuwang1028.bond
 mailontod.com
 mailrr.aruba.it
 mailserver.dk
 mailslurp.biz
+mailslurp.net
 mailsmtp.qzz.io
 mailvault.com
 mailx.04.mom
@@ -1161,7 +1150,6 @@ missouri.edu
 misty9527.ccwu.cc
 mit.edu
 mitsumoto.com
-mitvec.com
 mkxlu9.sowhy.de5.net
 mm.rc0101.site
 mmail.wuwang1028.bond
@@ -1177,6 +1165,7 @@ motor-nut.com
 moviefan.com
 moyang303.de5.net
 mpx.com.au
+msdsj.cyou
 msn-mail-free-1.dynv6.net
 msn-mail-free-1092.dynv6.net
 msn-mail-free-1268.dynv6.net
@@ -1285,8 +1274,6 @@ mts.net
 mtu.edu
 mua.lacdn.cn
 mui.de5.net
-mui876.cf
-mui876.tk
 mustangs.com
 mvtvwireless.com
 mxmv.top
@@ -1314,7 +1301,6 @@ myspartans.org
 myt.mu
 mywildmail.com
 myyahoo.com
-mzl2wvp6.nsmjj.tech
 n5.jesys.net
 nagisa.eu.cc
 naifeistation.com
@@ -1326,7 +1312,6 @@ nb.syh.localhost.cc
 nb.syh.qqc.me
 nb.syh.rua.ci
 nb.syh5.eu.cc
-nc.rainsase.com
 nccu.edu.tw
 ncmich.edu
 ncsu.edu
@@ -1345,6 +1330,7 @@ nevinxu.ccwu.cc
 news.sowhy.de5.net
 nexicom.net
 nextpomi.dynv6.net
+nexushost.site
 ngamail.net
 niceground.shop
 niconico.ccwu.cc
@@ -1356,6 +1342,7 @@ njit.edu
 nmsu.edu
 nom-prenom.com
 nonomail.com
+nostalgiamail.ru
 notify.nothing688.de5.net
 nowmail.co.nz
 nownuri.net
@@ -1374,16 +1361,15 @@ nyawit.id
 nyu.edu
 oaifree.ai6.me
 oakland.edu
-ob.rainsase.com
 oc.lacdn.cn
 oceanschools.org
+oceanz.tech
 ocsnet.net
 odn.ad.jp
 odn.ne.jp
 odu.edu
 oewc.top
 offcolormail.com
-og.firegameplay.com
 ogzmail.com
 ohio.edu
 ohne-drogen-gehts.net
@@ -1414,6 +1400,7 @@ p1aintiff.qzz.io
 pakistani.ws
 panda.tnc.ne.jp
 pandey.club
+pandey.lol
 paran.com
 paris.edu.pl
 parsimail.com
@@ -1421,7 +1408,6 @@ passmail.net
 pattayacitythailand.com
 pcc.edu
 pcisys.net
-pddfw.cn
 pdvs.top
 pdx.edu
 pdx.ne.jp
@@ -1430,8 +1416,6 @@ personainternet.com
 phuturemail.com
 pikara.ne.jp
 pilu.com
-pindush.net
-pingmx.com
 pinmx.net
 pipeline.sbcc.edu
 pipni.cz
@@ -1453,7 +1437,6 @@ polimi.it
 pop.com.br
 poppymail.com
 portafree.com
-portfolink.vps.cd
 pos.lukeliou.site
 post.expart.ne.jp
 post.harvard.edu
@@ -1464,18 +1447,20 @@ postbox.uron.cc.cd
 postiloota.net
 powdermail.com
 premiumgo.id
+prems.id
 primetap.com
 private.21cn.com
 proton.me
 prtel.com
 pstcc.edu
 psu.edu
-push.tg
+pulsix.pw
 pymblelc.nsw.edu.au
 q0ez.yuzu.sryze.cc
 qamlykl.info
 qatar.cmu.edu
 qgming.qzz.io
+qixblo.com
 qsl.net
 qub.ac.uk
 qudone.net
@@ -1486,8 +1471,6 @@ quiet-branch.com
 qut.edu.au
 quye.loves-beer.com
 qwer.729406.xyz
-r.rainsase.com
-r4.sdfe.app
 radeshop.com
 radiant-flow.org
 rakumail.jp
@@ -1495,7 +1478,6 @@ rakuten.jp
 rasmussen.edu
 raxio.app
 rdevmail.tokenized.name
-readav.com
 realtravelfan.com
 rebels.com
 redskinscheer.com
@@ -1508,6 +1490,7 @@ regis.edu
 rette.net
 riseup.net
 rjhhgl.com
+rm9f8gai.mailosaur.net
 rmcad.edu
 rmit.edu.au
 rnmut8pudgj0ikregqx6.dynv6.net
@@ -1515,16 +1498,13 @@ rocketmail.som
 rs.sdfe.app
 rt.jesys.net
 russiamail.com
-rweebz-mail-1.online
 rxpost.net
 ryerson.ca
 rymtool.eu.cc
-s5.foodhz.com
 safat.info
 safe-mailbox.com
 saic.edu
 saigonnet.vn
-sakibbd.xyz
 salmiya.biz
 samuiclub.com
 sasktel.net
@@ -1548,13 +1528,13 @@ sensewave.com
 sermix.com
 server4free.de
 sewanee.edu
-sexshop.baby
 seychelles.net
 sfanrj.cfd
 sfasu.edu
 sfu.ca
 sghs.nsw.edu.au
 shef.ac.uk
+shiba.gay
 shieldedpost.net
 ship.edu
 shoal.net.au
@@ -1577,12 +1557,14 @@ sky.tkk.ne.jp
 sky.tu-ka.ne.jp
 skyafrica.co.za
 sloane.com
+sma.balajar.id
 smartemail.co.uk
 smc.edu
 smoove.org
 smp.balajar.id
 smu.edu
 smude.edu.in
+smurftop.org
 sn6fk3.nsmjj.tech
 so-net.ne.jp
 socialabox.xyz
@@ -1593,11 +1575,14 @@ sou.edu
 spaaqs.ne.jp
 spahe.xyz
 spamcop.net
+spamok.nl
 speakeasy.net
 speedymail.net
 spexe.org
+spinbit.cyou
 spray.net
 sprintpcs.com
+spurmail.com
 sqp.cc.cd
 srbbs.com
 st.ug.edu.gh
@@ -1674,7 +1659,9 @@ surewest.net
 surnet.cl
 surrey.ac.uk
 sussex.ac.uk
+sutemeado.com
 sverige.nu
+swiftmaily.com
 swtafe.vic.edu.au
 sxda.cc.cd
 sydstu.catholic.edu.au
@@ -1686,10 +1673,10 @@ tangolive.tango.lu
 taosnet.com
 tas.edu.tw
 tastel.net.au
+tavaim.com
 tc3net.com
 tcu.edu
-tdc.edu.vn
-tecorix.com
+teamdubl.xyz
 teenmail.co.za
 tele2.no
 temp-email.de5.net
@@ -1710,6 +1697,7 @@ thly.cc.cd
 throwaway.dynv6.net
 throwawaymail.app
 thrunet.com
+thuxue.com
 tidewater.net
 tightmail.com
 tiki.ne.jp
@@ -1717,7 +1705,6 @@ tiscali.no
 tistory.com
 tm.488448.xyz
 tm.515666.xyz
-tm.622221.xyz
 tm.spkun.org
 tokai.or.jp
 tokenizer.qwen3-30b-a3b.xyz
@@ -1747,9 +1734,9 @@ ttu.edu
 tu.ac.th
 tulane.edu
 tushmail.com
-tuvsec.com
 tvchannelsurfer.com
 txstate.edu
+tzail.com
 u.boisestate.edu
 u.pacific.edu
 uab.edu
@@ -1776,7 +1763,6 @@ uic.edu
 uivm.top
 uiwtx.edu
 ujoice.com
-ukshop538yt.uk
 uleth.ca
 ull.edu.es
 umail.iu.edu
@@ -1835,8 +1821,8 @@ uwec.edu
 uwindsor.ca
 uwm.edu
 uwosh.edu
+v-mailhub.com
 vanderbilt.edu
-vaztor.com
 vcu.edu
 vegan.qzz.io
 verat.net
@@ -2008,6 +1994,7 @@ wipe.waroengmail.com
 wisc.edu
 wit.edu
 witelcom.com
+wittergmail.com
 wlv.ac.uk
 wmconnect.com
 wo1jiao2ren3jian4hu5.qzz.io
@@ -2045,7 +2032,6 @@ xx.lucky04.dpdns.org
 xxianxiayubanmian5.xyz
 xxxmailaxx.site
 y1hoo.com
-y2.firegameplay.com
 y4ebvg.nothing688.de5.net
 ya.com
 yahho.com
