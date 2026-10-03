@@ -3,6 +3,8 @@
 123-email.com
 1963chevrolet.com
 1963pontiac.com
+1sec.email
+2mails.site
 4degreez.com
 60gp.ovh.net
 8-0.net
@@ -25,7 +27,6 @@ aggiemail.usu.edu
 ahoo.com
 ahsa.ws
 aic.wa.edu.au
-aisentry.icu
 aklan.com
 alaska.edu
 alavatotal.com
@@ -47,8 +48,6 @@ alwayswatchingtv.com
 amnet.net.au
 andersonuniversity.edu
 angelo.edu
-anowt.com
-anthonydones-dp.com
 anu.edu.au
 anymail.kify.com
 aol.in
@@ -57,6 +56,7 @@ aolmail.aol.com.br
 aool.com
 appstate.edu
 aprava.com
+apuera.fyi
 arab.ir
 arabou.edu.sa
 aracer.com
@@ -76,6 +76,7 @@ aum.edu
 auone-net.jp
 avasmail.com.mv
 avc.edu
+awsl.uk
 axarnet.com
 azwildblue.com
 badgers.com
@@ -116,6 +117,7 @@ bluezone.no
 bmi.net
 bne.catholic.edu.au
 bnin.net
+bolacha.email
 bollywood2000.com
 boun.edu.tr
 box.punkt.pl
@@ -159,14 +161,10 @@ ccc.com
 ccpsnet.net
 cen.edu.au
 cercaziende.it
-cgenu.com
 cgps.org
 chariot.net.au
 chat-with-me.com
 chat.free.fr
-chatdrop.cfd
-chatrise.cfd
-chatvia.cfd
 cheatasrule.com
 chello.no
 chmail.ir
@@ -176,15 +174,14 @@ chooseyourmail.com
 cititrustbank1.cjb.net
 citrommail.hu
 city10.com.br
-ckfapi.com
-ckffapi.com
 clarkson.edu
 clear.net
 clearwire.com
+cloak.id
 cmail.carleton.ca
 cmich.edu
 cnm.edu
-coinvex.cfd
+codenix.icu
 coldmail.nu
 colostate.edu
 columbia.edu.pe
@@ -198,7 +195,6 @@ connect.com.fj
 connect.qut.edu.au
 cooljakarta.com
 coolyork.com
-coregamingzone.cfd
 cornell.edu
 correio.upis.br
 correo.juntadeandalucia.es
@@ -211,7 +207,6 @@ crazyaboutfilms.net
 crazycarfan.com
 crazyforemail.com
 crazymoviefan.com
-crookesmail.ru
 crosspaths.net
 cse.unsw.edu.au
 csuglobal.edu
@@ -220,7 +215,6 @@ cusd.claremont.edu
 cybergap.net
 cyryx.edu.mv
 cytanet.com.cy
-d4.auroracovia.com
 dada.net
 dal.ca
 darden.virginia.edu
@@ -237,6 +231,7 @@ dion.ne.jp
 dir.bg
 diu.edu.bd
 djis.edu.sa
+dma.yuzu.sryze.cc
 dnyeemail.com
 doctors.org.uk
 dodo.com
@@ -252,7 +247,6 @@ dragonfans.com
 drakestate.edu
 dreamwiz.com
 dti.ne.jp
-dulphun.com
 dusty.tamiu.edu
 e-mail.de
 e-mail.ph
@@ -302,7 +296,6 @@ epost.cz
 epost.no
 eq.edu.au
 ertelecom.ru
-erzi.me
 esde-s.org
 esfera.cl
 estadao.com.br
@@ -314,6 +307,7 @@ execulink.com
 expn.com
 expressmail.dk
 extranet.hu
+ezsmurf.top
 f1mail.rediff.com
 fairpoint.net
 familysafeweb.net
@@ -326,6 +320,7 @@ fivestar.edu.au
 flash.ro
 flashmail.club-internet.fr
 fnwusers.com
+fpklm.com
 fpt.edu.vn
 free-email-address.com
 free.net.nz
@@ -346,9 +341,6 @@ getmail.no
 ggc.edu
 gilbertschool.org
 gjk.dk
-globalcampus.edu.pl
-glorstack.sbs
-glorster.cyou
 glwb.net
 gmail.c
 gmail.ca
@@ -384,7 +376,6 @@ hec.ca
 hi-ho.ne.jp
 hillsdale.edu
 hillsgrammar.nsw.edu.au
-hirestack.cfd
 hitel.net
 hitthepuck.com
 hkis.edu.hk
@@ -430,6 +421,7 @@ ilikeworkingout.com
 ilovehomeprojects.com
 iloveourteam.com
 iloveworkingout.com
+iloveyou2.fun
 imailreader.com
 imap.ch
 imo.im
@@ -441,6 +433,7 @@ in2autos.net
 iname.ru
 inbox.com.pk
 inbox.om
+inbox.testmail.app
 indiana.edu
 indigo.ie
 inet.com.ua
@@ -452,7 +445,7 @@ intelnet.net.gt
 interestedinthejob.com
 internet.lu
 intomotors.com
-investlane.sbs
+investhub.sbs
 iona.qld.edu.au
 ipermitmail.com
 ipns.com
@@ -479,6 +472,7 @@ jamadots.com
 jcu.edu
 jemimi.net
 jhu.edu
+johorulcloud.space
 jpg.ir
 juka.pekk@suomi24.fi
 k12coffee.net
@@ -487,13 +481,14 @@ kann.so
 kataweb.it
 kcn.ne.jp
 kctcs.edu
-khaku.indevs.in
+kicaumania.web.id
 kidsemail.org
 kings.edu.au
 kingscollege.qld.edu.au
 kinkyemail.com
 klik.it
 kmtn.ru
+komgame.win
 kornet.net
 ksa.ir
 ksu.edu
@@ -532,6 +527,7 @@ loveemail.com
 lovefantasysports.com
 lovemail.co.uk
 lovetoexercise.com
+lowid.yuzu.sryze.cc
 lpemail.com
 lsu.edu
 ltusd.org
@@ -589,6 +585,7 @@ mail.yahoo.fr
 mail.yandex.ru
 mail.zoznam.sk
 mail1.voila.fr
+mail10p.com
 mail2.voila.fr
 mail2go.com
 mail3.voila.fr
@@ -620,7 +617,6 @@ mediacombb.net
 meebo.com
 mega-schlau.de
 megaegg.ne.jp
-meitu.io.vn
 members.rediff.com
 menara.ma
 merrimack.edu
@@ -672,7 +668,6 @@ myfantasyteamrules.com
 mygrande.net
 mymail.de
 mymdc.net
-mypucm.com
 mysg.8m.com
 myspace.com
 myspartans.org
@@ -702,9 +697,9 @@ nownuri.net
 ns.sympatico.ca
 ntebb.no
 ntlworld.co.uk
-ntmtep.xyz
 nu.edu.pk
 nuim.ie
+nusantaraku.my.id
 nvc.net
 nwi.net
 nyu.edu
@@ -719,6 +714,7 @@ ohne-drogen-gehts.net
 oimail.oi.com.br
 okstate.edu
 olemiss.edu
+omail.id
 onatoo.com
 online-home.de
 online.no
@@ -726,10 +722,10 @@ onmail.com
 oopsmail.com
 open.by
 openmail.cc
+optimizeux.co
 optimum.com
 optusnet.com
 orange.com
-orbitxpeak.com
 orcon.net.nz
 osu.edu
 oumail.ou.edu
@@ -738,13 +734,12 @@ paran.com
 parsimail.com
 passmail.net
 pattayacitythailand.com
-payscope.sbs
 pcc.edu
 pcisys.net
 pdx.edu
 pennsylvania.usa.com
+performanceairhc.com
 personainternet.com
-petchi.uk
 pikara.ne.jp
 pilu.com
 pipeline.sbcc.edu
@@ -773,7 +768,6 @@ post.pl
 posta.ge
 postiloota.net
 powdermail.com
-premlogin.vip
 primetap.com
 private.21cn.com
 proton.me
@@ -800,6 +794,7 @@ redskinsultimatefan.com
 regis.edu
 rette.net
 riseup.net
+rito.grok-mail.co
 rjhhgl.com
 rmcad.edu
 rmit.edu.au
@@ -807,7 +802,6 @@ rocketmail.som
 russiamail.com
 rxpost.net
 ryerson.ca
-saddlebackmail.ru
 safat.info
 safe-mailbox.com
 saic.edu
@@ -839,7 +833,6 @@ sghs.nsw.edu.au
 shef.ac.uk
 ship.edu
 shoal.net.au
-shopdevo.com
 shsu.edu
 si.edu
 siamnow.net
@@ -852,14 +845,18 @@ skidmore.edu
 skins4life.com
 skyafrica.co.za
 sloane.com
+smartdigitalpromo.com
 smartemail.co.uk
 smc.edu
 smoove.org
+smp.balajar.id
 smu.edu
 smude.edu.in
 so-net.ne.jp
 solalto.edu.gt
 sou.edu
+souss.dev
+spahe.space
 spamcop.net
 speakeasy.net
 speedymail.net
@@ -878,7 +875,6 @@ startadsl.hu
 startmail.com
 stbc.vic.edu.au
 stedwards.edu
-stenmax.com
 stern.nyu.edu
 stetson.edu
 stfc.ac.uk
@@ -949,16 +945,18 @@ tcu.edu
 teenmail.co.za
 tele2.no
 temple.edu
+temporam.me
 tenison.catholic.edu.au
-thedatadrivenpractice.com
 thegamefanatic.com
 theriver.com
 thinkpost.net
 tidewater.net
 tightmail.com
 tiki.ne.jp
+tinyadventures.xyz
 tiscali.no
 tistory.com
+tmpmailer.com
 tokai.or.jp
 totalfoodnut.com
 totally-into-cooking.com
@@ -982,7 +980,6 @@ ttmail.com
 ttnet.com.tr
 ttu.edu
 tu.ac.th
-tukuzeafrika.org
 tulane.edu
 tushmail.com
 tvchannelsurfer.com
@@ -1051,7 +1048,6 @@ utdallas.edu
 utexas.edu
 utk.edu
 utoronto.ca
-utremail.com
 utu.fi
 utwire.net
 uvic.ca
@@ -1067,7 +1063,6 @@ verat.net
 verizonwireless.com
 versija.lv
 villanova.edu
-viups.com
 vivelared.com
 vodafone.co.nz
 vodafone.ne.jp
@@ -1196,6 +1191,7 @@ webmaildominiold.aruba.it
 webmailer.1und1.de
 webmessenger.yahoo.com
 webspawner.com
+weehost.top
 weirdness.com
 westvic.com.au
 wfu.edu
@@ -1221,7 +1217,6 @@ workingonthehouse.com
 worldpath.net
 writesoon.com
 wsu.edu
-wurkhub.sbs
 wustl.edu
 wuvoo.com
 wvup.edu
@@ -1255,7 +1250,5 @@ zmail.com
 zmail.unsw.edu.au
 zohomail.com
 zoomshare.com
-zoomugo.com
-zsthost.top
 zu-geil.de
 zworg.com
