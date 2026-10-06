@@ -35,7 +35,6 @@ aliasmail.de
 alinto.com
 all4theskins.com
 allin1.com
-allservice.fun
 allsportsrock.com
 altonaps.vic.edu.au
 alum.com
@@ -53,7 +52,6 @@ aol.in
 aolchat.fr
 aolmail.aol.com.br
 aool.com
-aplix.id
 appstate.edu
 aprava.com
 arab.ir
@@ -68,7 +66,6 @@ ashlandcityschools.org
 aspemail.com
 astound.net
 asu.edu
-at32.tempdukviet.click
 au.com
 aucegypt.edu
 aug.com
@@ -208,13 +205,11 @@ cse.unsw.edu.au
 csuglobal.edu
 csupomona.edu
 cusd.claremont.edu
-custemail.xyz
 cybergap.net
 cyryx.edu.mv
 cytanet.com.cy
 dada.net
 dal.ca
-daodao.app
 darden.virginia.edu
 davis.k12.ut.us
 deakin.edu
@@ -308,7 +303,6 @@ f1mail.rediff.com
 fairpoint.net
 familysafeweb.net
 farmerstel.com
-fast4wardmail.co.in
 fau.edu
 ferris.edu
 fidnet.com
@@ -478,7 +472,6 @@ kings.edu.au
 kingscollege.qld.edu.au
 kinkyemail.com
 klik.it
-kmreq.top
 kmtn.ru
 kornet.net
 ksa.ir
@@ -599,7 +592,6 @@ maynard.nesc.k12.ar.us
 mcmaster.ca
 mcn.org
 mcom.com
-mcpt.cn
 mctc.edu
 mdc.edu
 mebwail.bur.st
@@ -637,7 +629,6 @@ msstate.edu
 msu.edu
 mtholyoke.edu
 mtn.co.za
-mtoemail.com
 mts.net
 mtu.edu
 mustangs.com
@@ -672,7 +663,6 @@ nebrwesleyan.edu
 netaddress.usa.net
 netalfa.net
 netcom.no
-netfluxo.com
 netmail.verizon.net
 netmymail.com
 netnitco.net
@@ -719,7 +709,6 @@ orcon.net.nz
 osu.edu
 oumail.ou.edu
 pakistani.ws
-pandey.club
 paran.com
 parsimail.com
 passmail.net
@@ -757,7 +746,6 @@ post.pl
 posta.ge
 postiloota.net
 powdermail.com
-prems.id
 primetap.com
 private.21cn.com
 proton.me
@@ -931,7 +919,6 @@ teenmail.co.za
 tele2.no
 temple.edu
 tenison.catholic.edu.au
-textdiff.net
 thegamefanatic.com
 theriver.com
 thinkpost.net
@@ -940,7 +927,6 @@ tightmail.com
 tiki.ne.jp
 tiscali.no
 tistory.com
-tojson.icu
 tokai.or.jp
 totalfoodnut.com
 totally-into-cooking.com
@@ -1023,7 +1009,6 @@ uqconnect.edu.au
 urbi.com.br
 urse.edu.mx
 us.rediff.com
-usapremium.net
 usc.edu
 usc.edu.au
 usfca.edu
