@@ -3,7 +3,6 @@
 123-email.com
 1963chevrolet.com
 1963pontiac.com
-21zys.dpdns.org
 4degreez.com
 60gp.ovh.net
 8-0.net
@@ -25,7 +24,6 @@ aggiemail.usu.edu
 ahoo.com
 ahsa.ws
 aic.wa.edu.au
-akima.cyou
 aklan.com
 alaska.edu
 alavatotal.com
@@ -45,6 +43,7 @@ alwaysgrilling.com
 alwaysinthekitchen.com
 alwayswatchingmovies.com
 alwayswatchingtv.com
+aminoaammc.com
 amnet.net.au
 andersonuniversity.edu
 angelo.edu
@@ -93,9 +92,9 @@ bentley.edu
 berklee.edu
 besser-als-du.de
 best.ac.nz
-betterr.org
 bex.net
 bezeqint.net
+bg56n.anonbox.net
 bgc.bard.edu
 bigboss.cz
 biglobe.ne.jp
@@ -178,6 +177,7 @@ clearwire.com
 cmail.carleton.ca
 cmich.edu
 cnm.edu
+cobmk.com
 coldmail.nu
 colostate.edu
 columbia.edu.pe
@@ -252,11 +252,11 @@ easyinfomail.co.za
 eclub.lv
 ecmelb.catholic.edu.au
 ecomail.org
+edu.aili.moe
 edumail.co.za
 edumax.edu.vn
 ego.co.th
 eim.ae
-ekk.xzcoot.com
 ekolay.net
 elon.edu
 email.arizona.edu
@@ -347,7 +347,6 @@ go.cougars.com
 go.icq.com
 go.mustangs.com
 goddess.com
-gonebox.email
 grenoble-em.com
 grinnell.edu
 gsfwg.com
@@ -363,15 +362,14 @@ haywood.edu
 hbgsd.k12.pa.us
 hct.ac.ae
 hec.ca
+heiuse.com
 hi-ho.ne.jp
 hillsdale.edu
 hillsgrammar.nsw.edu.au
 hitel.net
 hitthepuck.com
 hkis.edu.hk
-hlongmail.com
 hmc.edu
-holdmytab.com
 homtail.co.uk
 hong-kong-1.com
 hope.ac.uk
@@ -424,6 +422,7 @@ in2autos.net
 iname.ru
 inbox.com.pk
 inbox.om
+inboxss.top
 indiana.edu
 indigo.ie
 inet.com.ua
@@ -463,6 +462,7 @@ jemimi.net
 jhu.edu
 jpg.ir
 juka.pekk@suomi24.fi
+jyotirmaygyan.com
 k12coffee.net
 kakao.com
 kann.so
@@ -506,6 +506,7 @@ login.live.com
 login.yahoo.com
 london.ir
 louisville.edu
+lovcc.awa.bz
 love2exercise.com
 love2workout.com
 loveemail.com
@@ -577,6 +578,7 @@ mailbell.com
 mailbox-ag.de
 mailbox.in.au
 mailbox.sk
+mailboxtemp.com
 mailcenter.comcast.net
 mailcircuit.com
 mailrr.aruba.it
@@ -696,7 +698,6 @@ ohne-drogen-gehts.net
 oimail.oi.com.br
 okstate.edu
 olemiss.edu
-omail.asia
 onatoo.com
 online.no
 onmail.com
@@ -756,7 +757,6 @@ pstcc.edu
 psu.edu
 pymblelc.nsw.edu.au
 qatar.cmu.edu
-qlf.lucktaro.com
 qsl.net
 qub.ac.uk
 queensu.ca
@@ -772,10 +772,7 @@ redskinsfancentral.com
 redskinshog.com
 redskinsspecialteams.com
 redskinsultimatefan.com
-reepar.icu
-reepar.top
 regis.edu
-relrd.com
 rette.net
 riseup.net
 rjhhgl.com
@@ -925,7 +922,6 @@ teenmail.co.za
 tele2.no
 temple.edu
 tenison.catholic.edu.au
-tever.cyou
 thegamefanatic.com
 theriver.com
 thinkpost.net
@@ -963,7 +959,6 @@ tvchannelsurfer.com
 txstate.edu
 u.boisestate.edu
 u.pacific.edu
-u7btp.anonbox.net
 uab.edu
 uah.edu
 uakron.edu
@@ -1040,12 +1035,12 @@ vcu.edu
 verat.net
 verizonwireless.com
 versija.lv
-viday.lat
 villanova.edu
 vivelared.com
 vodafone.co.nz
 vodafone.ne.jp
 vodamail.co.za
+voltarana.shop
 vosforums.com
 vsnl.com
 vt.edu
@@ -1188,6 +1183,7 @@ winternet.com
 wisc.edu
 wit.edu
 witelcom.com
+withu.me
 wlv.ac.uk
 wmconnect.com
 workingaroundthehouse.com
