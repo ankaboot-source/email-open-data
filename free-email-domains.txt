@@ -83,6 +83,7 @@ baker.edu
 bardstowncable.net
 bathspa.ac.uk
 baxaim.com
+bazq3.anonbox.net
 bbiq.jp
 bbnett.no
 bbtec.net
@@ -312,7 +313,6 @@ familysafeweb.net
 fanfanhenkuai.xyz
 farmerstel.com
 fau.edu
-femme.lat
 ferris.edu
 fidnet.com
 fioptics.com
@@ -320,7 +320,9 @@ fivestar.edu.au
 flash.net
 flash.ro
 flashmail.club-internet.fr
+flavia.lat
 fnwusers.com
+forogise.com
 fpt.edu.vn
 free-email-address.com
 free.net.nz
@@ -1071,6 +1073,7 @@ vt.edu
 vtc.net
 vu.edu.pk
 vuw.ac.nz
+walrus.lat
 wanex.ge
 waridtel.com
 washk12.org
