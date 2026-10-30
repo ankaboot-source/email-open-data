@@ -97,7 +97,6 @@ best.ac.nz
 bex.net
 bezeqint.net
 bgc.bard.edu
-bid3w.anonbox.net
 bigboss.cz
 biglobe.ne.jp
 bikermail.com
@@ -105,6 +104,7 @@ binghamton.edu
 bip.net
 bitwiser.com
 biz.ezweb.ne.jp
+bjsq7.anonbox.net
 bla.com
 black-sea.ro
 blackandchristian.com
@@ -123,6 +123,7 @@ brainsurfer.de
 brandeis.edu
 breede.co.za
 bresnan.com
+brest.lat
 brighthouse.com
 brite-mail.com
 broadstripe.net
@@ -794,6 +795,7 @@ registergrok.dpdns.org
 rette.net
 riseup.net
 rjhhgl.com
+rlivede.com
 rmcad.edu
 rmit.edu.au
 rocketmail.som
