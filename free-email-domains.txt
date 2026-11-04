@@ -75,12 +75,10 @@ avasmail.com.mv
 avc.edu
 axarnet.com
 azwildblue.com
-bad-o.men
 badgers.com
 bahu.com
 baines.com
 baker.edu
-bankwen.com
 bardstowncable.net
 bathspa.ac.uk
 bbiq.jp
@@ -102,6 +100,7 @@ bikermail.com
 binghamton.edu
 bip.net
 bitwiser.com
+biukv.anonbox.net
 biz.ezweb.ne.jp
 bla.com
 black-sea.ro
@@ -114,10 +113,10 @@ bluezone.no
 bmi.net
 bne.catholic.edu.au
 bnin.net
-boffweb.com
 bollywood2000.com
 boun.edu.tr
 box.punkt.pl
+bpihh.anonbox.net
 brainsurfer.de
 brandeis.edu
 breede.co.za
@@ -217,16 +216,13 @@ darden.virginia.edu
 davis.k12.ut.us
 deakin.edu
 deakin.edu.au
-decaffeinatedmail.com
 delfi.lt
 delfi.lv
 descriptivemail.com
 devils.com
 dialrequest.com
 differentmail.com
-digeros.com
 dion.ne.jp
-dioramafern.me
 dir.bg
 diu.edu.bd
 djis.edu.sa
@@ -244,7 +240,6 @@ draac.com
 dragonfans.com
 drakestate.edu
 dreamwiz.com
-drtall.com
 dti.ne.jp
 dusty.tamiu.edu
 e-mail.ph
@@ -276,17 +271,14 @@ email.luxweb.com
 email.seznam.cz
 email.uol.com.br
 email.vccs.edu
-emailkeep.com
 emailman.com
 emailme.nu
 emailn.de
 emailsites.tripod.com
 embroideryforums.com
 emirates.net.ae
-emman.my.id
 emnet.ne.jp
 emobile.ne.jp
-en2ch.com
 enterate.com.ar
 entusiastisk.com
 enusmail.com
@@ -300,7 +292,6 @@ esfera.cl
 estadao.com.br
 etb.net.co
 etllao.com
-etymoasis.me
 evansville.net
 everest.edu
 execulink.com
@@ -312,6 +303,7 @@ fairpoint.net
 familysafeweb.net
 farmerstel.com
 fau.edu
+faze.casa
 ferris.edu
 fidnet.com
 fioptics.com
@@ -376,7 +368,6 @@ hitel.net
 hitthepuck.com
 hkis.edu.hk
 hmc.edu
-hmmmlservice.com
 homtail.co.uk
 hong-kong-1.com
 hope.ac.uk
@@ -458,13 +449,11 @@ isu.edu
 itchetumal.edu.mx
 itctel.com
 itelgua.com
-iu1.marchslurp.com
 iupui.edu
 ius.edu
 ivytech.edu
 iwatchrealitytv.com
 jamadots.com
-javafs.com
 jcu.edu
 jemimi.net
 jhu.edu
@@ -480,7 +469,7 @@ kidsemail.org
 kings.edu.au
 kingscollege.qld.edu.au
 kinkyemail.com
-kl7.marchslurp.com
+kitagerindra.my.id
 klik.it
 kmtn.ru
 kornet.net
@@ -492,6 +481,7 @@ ku.edu.tr
 kuronowish.com
 kuwait.ir
 lagoon.nc
+lambertbill.store
 lamessagerie.com
 lancaster.ac.uk
 lasalle.wa.edu.au
@@ -525,7 +515,6 @@ lsu.edu
 ltusd.org
 lyse.net
 mackillop.vic.edu.au
-macsnipe.com
 madwire.com
 madwiremedia.com
 mag-spam.net
@@ -588,7 +577,6 @@ mailbox.in.au
 mailbox.sk
 mailcenter.comcast.net
 mailcircuit.com
-mailme.lat
 mailrr.aruba.it
 mailserver.dk
 mailvault.com
@@ -642,6 +630,7 @@ mtholyoke.edu
 mtn.co.za
 mts.net
 mtu.edu
+murphy-browning.magicalmushroommeadow.site
 mustangs.com
 mvtvwireless.com
 my.bcit.ca
@@ -665,7 +654,6 @@ mysg.8m.com
 myspace.com
 myspartans.org
 myt.mu
-mythmarsh.me
 mywildmail.com
 myyahoo.com
 nccu.edu.tw
@@ -718,7 +706,6 @@ optusnet.com
 orange.com
 orcon.net.nz
 osu.edu
-otpgmail.com
 oumail.ou.edu
 pakistani.ws
 paran.com
@@ -731,6 +718,7 @@ pcisys.net
 pdx.edu
 pennsylvania.usa.com
 personainternet.com
+pharmalinkcare.com
 pikara.ne.jp
 pilu.com
 pipeline.sbcc.edu
@@ -773,7 +761,6 @@ queensu.ca
 quick.cz
 quickemail.de
 qut.edu.au
-rabox.org
 rasmussen.edu
 realtravelfan.com
 rebels.com
@@ -790,7 +777,6 @@ rjhhgl.com
 rmcad.edu
 rmit.edu.au
 rocketmail.som
-runpebble.me
 russiamail.com
 rxpost.net
 ryerson.ca
@@ -845,7 +831,7 @@ smude.edu.in
 so-net.ne.jp
 solalto.edu.gt
 sou.edu
-soundattic.me
+southwestreptileremovals.com
 spamcop.net
 speakeasy.net
 spectrum.net
@@ -919,7 +905,6 @@ surnet.cl
 surrey.ac.uk
 sussex.ac.uk
 sverige.nu
-swapagrawal.work.gd
 swtafe.vic.edu.au
 sydstu.catholic.edu.au
 syr.edu
@@ -935,11 +920,11 @@ tcu.edu
 teenmail.co.za
 tele2.no
 temple.edu
+tempp-mail.org
 tenison.catholic.edu.au
 thegamefanatic.com
 theriver.com
 thinkpost.net
-thriftmorrow.me
 tidewater.net
 tightmail.com
 tiki.ne.jp
@@ -1055,7 +1040,6 @@ vivelared.com
 vodafone.co.nz
 vodafone.ne.jp
 vodamail.co.za
-vonju.org
 vosforums.com
 vsnl.com
 vt.edu
@@ -1065,6 +1049,7 @@ vuw.ac.nz
 wanex.ge
 waridtel.com
 washk12.org
+waterlemon.indevs.in
 waverley.nsw.edu.au
 wayn.com
 wayne.edu
@@ -1211,11 +1196,11 @@ wvup.edu
 wyoming.com
 xmail.net
 xnet.co.nz
-xpremium-mail.info
 xtramail.xtra.co.nz
 y1hoo.com
 ya.com
 yahho.com
+yaho.pk
 yahoo.com.mz
 yahoo.com.pj
 yahoo.comk
