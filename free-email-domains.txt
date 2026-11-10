@@ -13,12 +13,10 @@
 VFEmail
 aanet.com.au
 aapt.com.au
-abs.lat
 acatperson.com
 accesstoledo.com
 achs.edu
 acn.net
-adagame.store
 adogperson.com
 afri-com.net
 afropoets.com
@@ -65,7 +63,6 @@ aruba.it
 as.edu.au
 asahi-net.or.jp
 ashlandcityschools.org
-ask15da.party
 aspemail.com
 astound.net
 asu.edu
@@ -78,11 +75,11 @@ avasmail.com.mv
 avc.edu
 axarnet.com
 azwildblue.com
+babyraids.net
 badgers.com
 bahu.com
 baines.com
 baker.edu
-baolaowang.com
 bardstowncable.net
 bathspa.ac.uk
 bbiq.jp
@@ -111,7 +108,6 @@ blackandchristian.com
 blackvault.com
 blogs.rediff.com
 blue.devils.com
-bluefizzclub.me
 bluemarble.net
 bluezone.no
 bmi.net
@@ -177,7 +173,6 @@ city10.com.br
 clarkson.edu
 clear.net
 clearwire.com
-clipnovella.me
 cmail.carleton.ca
 cmich.edu
 cnm.edu
@@ -220,11 +215,9 @@ darden.virginia.edu
 davis.k12.ut.us
 deakin.edu
 deakin.edu.au
-decosprig.me
 delfi.lt
 delfi.lv
 descriptivemail.com
-deskblossom.me
 devils.com
 dialrequest.com
 differentmail.com
@@ -243,7 +236,6 @@ dot5hosting.com
 dowstu.catholic.edu.au
 dr-dre.com
 draac.com
-dragonbookcase.me
 dragonfans.com
 drakestate.edu
 dreamwiz.com
@@ -306,8 +298,6 @@ expn.com
 expressmail.dk
 extranet.hu
 f1mail.rediff.com
-faeze.online
-fahjnlgfa1fa2.com
 fairpoint.net
 familysafeweb.net
 farmerstel.com
@@ -328,19 +318,15 @@ free.za-mail.de
 freechal.com
 freemail.aussiemail.com.au
 froggy.com.au
-fshare.dpdns.org
 fullsail.edu
 gala.net
 galmail.co.za
 gate.net
-gdasg.bid
 geling@hawaii.edu
 georgetown.edu
 georgiasouthern.edu
 ggc.edu
-ghiyugh.uk
 gilbertschool.org
-givemeai.sbs
 gjk.dk
 glwb.net
 gmail.c
@@ -365,7 +351,6 @@ gulls.salisbury.edu
 gvtc.com
 hail2theskins.com
 hallmarkcollege.edu
-hanabi.indevs.in
 hananet.net
 harding.edu
 hargray.com
@@ -374,7 +359,6 @@ haywood.edu
 hbgsd.k12.pa.us
 hct.ac.ae
 hec.ca
-hhhhbfshb.date
 hi-ho.ne.jp
 hillsdale.edu
 hillsgrammar.nsw.edu.au
@@ -443,7 +427,6 @@ infoweb.ne.jp
 insead.edu
 intelnet.net.gt
 interestedinthejob.com
-interly.xyz
 internet.lu
 intomotors.com
 iona.qld.edu.au
@@ -470,12 +453,10 @@ ivytech.edu
 iwatchrealitytv.com
 jamadots.com
 jcu.edu
-jellyglimmer.me
 jemimi.net
 jhu.edu
 jpg.ir
 juka.pekk@suomi24.fi
-jyshriram.online
 k12coffee.net
 kakao.com
 kann.so
@@ -528,14 +509,12 @@ lovetoexercise.com
 lpemail.com
 lsu.edu
 ltusd.org
-lumiere.indevs.in
 lyse.net
 mackillop.vic.edu.au
 madwire.com
 madwiremedia.com
 mag-spam.net
 magik-net.com
-mahjonglore.me
 mail-atlas.net
 mail-online.dk
 mail.163.com
@@ -692,12 +671,10 @@ nom-prenom.com
 nonomail.com
 nowmail.co.nz
 nownuri.net
-npobox.us
 ns.sympatico.ca
 ntebb.no
 ntlworld.co.uk
 nu.edu.pk
-nucleopic.com
 nuim.ie
 nvc.net
 nwi.net
@@ -725,7 +702,6 @@ orange.com
 orcon.net.nz
 osu.edu
 oumail.ou.edu
-packwhistle.me
 pakistani.ws
 paran.com
 parsimail.com
@@ -779,7 +755,6 @@ queensu.ca
 quick.cz
 quickemail.de
 qut.edu.au
-rallywisp.me
 rasmussen.edu
 realtravelfan.com
 rebels.com
@@ -809,7 +784,6 @@ sasktel.net
 sbcglobakl.net
 sbcglofbal.net
 sbcgobal.net
-scamlantern.me
 scdhools.nyc.gov
 scheint.so
 schools.sa.edu.au
@@ -858,7 +832,6 @@ speedymail.net
 spexe.org
 spray.net
 sprintpcs.com
-square32o.com
 srbbs.com
 st.ug.edu.gh
 staatsterrorist.de
@@ -937,7 +910,6 @@ tas.edu.tw
 tastel.net.au
 tc3net.com
 tcu.edu
-technovahub.club
 teenmail.co.za
 tele2.no
 temple.edu
@@ -979,7 +951,6 @@ tvchannelsurfer.com
 txstate.edu
 u.boisestate.edu
 u.pacific.edu
-u7ig4.anonbox.net
 uab.edu
 uah.edu
 uakron.edu
@@ -1070,7 +1041,6 @@ vuw.ac.nz
 wanex.ge
 waridtel.com
 washk12.org
-wattcottage.me
 waverley.nsw.edu.au
 wayn.com
 wayne.edu
@@ -1229,7 +1199,6 @@ yahoo.coms.g
 yahoo.comt
 yahoo.conm
 yahoo.vom
-yatomail.com
 yckps.edu.sg
 ycp.edu
 yhaoo.com
