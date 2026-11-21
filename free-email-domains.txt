@@ -92,7 +92,6 @@ bellsouth.com
 bentley.edu
 berklee.edu
 besser-als-du.de
-best-temp-mail.info
 best.ac.nz
 bex.net
 bezeqint.net
@@ -103,6 +102,7 @@ biglobe.ne.jp
 bikermail.com
 binghamton.edu
 bip.net
+birzeit.pna.ps
 bitwiser.com
 biz.ezweb.ne.jp
 bla.com
@@ -147,13 +147,13 @@ cairn.edu
 calpoly.edu
 canal21.com
 cantab.net
-cantrell.starlitdreamvoyages.site
 caress.com
 carleton.ca
 carroll.edu
 cartooners.com
 case.edu
 catalunyamail.com
+catcatc.me
 cbcfremantle.wa.edu.au
 cbn.net.id
 cc.utulsa.edu
@@ -393,6 +393,7 @@ hutchcity.com
 hws.edu
 ibat.ie
 ibest.com.br
+ibun.cc
 ic.ac.uk
 icloud.net
 icloud.nl
@@ -464,7 +465,6 @@ jamadots.com
 jcu.edu
 jemimi.net
 jhu.edu
-jkkks.com
 jpg.ir
 juka.pekk@suomi24.fi
 k12coffee.net
@@ -588,7 +588,6 @@ mailp.site
 mailrr.aruba.it
 mailserver.dk
 mailvault.com
-mailzena.com
 maine.edu
 majorana.martina-franca.ta.it
 majorgolfer.com
@@ -688,6 +687,7 @@ ns.sympatico.ca
 ntebb.no
 ntlworld.co.uk
 nu.edu.pk
+nucleoidai.com
 nuim.ie
 nvc.net
 nwi.net
@@ -747,7 +747,6 @@ pogowave.com
 pointloma.edu
 pokemates.com
 polimi.it
-pomailbox.com
 pop.com.br
 poppymail.com
 portafree.com
@@ -840,6 +839,7 @@ smc.edu
 smoove.org
 smu.edu
 smude.edu.in
+smurfland.icu
 so-net.ne.jp
 solalto.edu.gt
 sou.edu
@@ -915,6 +915,7 @@ surewest.net
 surnet.cl
 surrey.ac.uk
 sussex.ac.uk
+sute-ado.com
 sverige.nu
 swtafe.vic.edu.au
 sydstu.catholic.edu.au
@@ -959,6 +960,7 @@ triton.net
 troycable.net
 truman.edu
 truvista.net
+trypear.ai
 ttmail.com
 ttnet.com.tr
 ttu.edu
@@ -1200,6 +1202,7 @@ wmconnect.com
 workingaroundthehouse.com
 workingonthehouse.com
 worldpath.net
+woworldtech.com
 writesoon.com
 wsu.edu
 wustl.edu
@@ -1227,6 +1230,7 @@ yhaoo.com
 ymail.ne.jp
 ymobile1.ne.jp
 your.hispeed.ch
+zacaos.com
 zaq.ne.jp
 zen.co.uk
 zimbra.aliceadsl.fr
