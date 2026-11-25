@@ -5,25 +5,21 @@
 1963pontiac.com
 4degreez.com
 60gp.ovh.net
-7koez.anonbox.net
 8-0.net
 8m.com
 8m.net
 8u8.hk
 8u8.tw
 VFEmail
-aaa12ddf.getmx.net
 aanet.com.au
 aapt.com.au
 acatperson.com
 accesstoledo.com
-accmarketx.com
 achs.edu
 acn.net
 adogperson.com
 afri-com.net
 afropoets.com
-agenticengineer.pro
 aggiemail.usu.edu
 ahoo.com
 ahsa.ws
@@ -157,7 +153,6 @@ cbcfremantle.wa.edu.au
 cbn.net.id
 cc.utulsa.edu
 ccc.com
-ccpro.id
 ccpsnet.net
 cen.edu.au
 cercaziende.it
@@ -177,9 +172,6 @@ city10.com.br
 clarkson.edu
 clear.net
 clearwire.com
-clicksee.site
-clicktoo.site
-clikgo.store
 cmail.carleton.ca
 cmich.edu
 cnm.edu
@@ -194,7 +186,6 @@ computhouse.com
 conevyt.org.mx
 connect.com.fj
 connect.qut.edu.au
-contnt.store
 cooljakarta.com
 coolyork.com
 cornell.edu
@@ -231,7 +222,6 @@ dialrequest.com
 differentmail.com
 dion.ne.jp
 dir.bg
-dirtysecretsclub.xyz
 diu.edu.bd
 djis.edu.sa
 dnyeemail.com
@@ -383,7 +373,6 @@ hosanna.net
 hotdak.com
 hotmail.msn.com
 hotmail.sk
-houseoftemptation.site
 hptmail.co.uk
 hptmail.com
 htcnet.net
@@ -392,7 +381,6 @@ huskies.com
 husky.neu.edu
 hutchcity.com
 hws.edu
-hyhan.de5.net
 ibat.ie
 ibest.com.br
 ic.ac.uk
@@ -468,7 +456,6 @@ jemimi.net
 jhu.edu
 jpg.ir
 juka.pekk@suomi24.fi
-k12.betaxx.us
 k12coffee.net
 kakao.com
 kann.so
@@ -480,7 +467,6 @@ kings.edu.au
 kingscollege.qld.edu.au
 kinkyemail.com
 klik.it
-kling1.hailong.online
 kmtn.ru
 kornet.net
 ksa.ir
@@ -625,7 +611,6 @@ mineo.jp
 missouri.edu
 mit.edu
 mitsumoto.com
-mmoking.net
 mobileemail.vodafonesa.co.za
 monash.edu
 montclair.edu
@@ -675,7 +660,6 @@ netcom.no
 netmail.verizon.net
 netmymail.com
 netnitco.net
-nex.edu.kg
 nexicom.net
 ngamail.net
 nifty.com
@@ -700,7 +684,6 @@ ocsnet.net
 odn.ne.jp
 odu.edu
 offcolormail.com
-oftweb.cyou
 ohio.edu
 ohne-drogen-gehts.net
 oimail.oi.com.br
@@ -759,9 +742,6 @@ postiloota.net
 powdermail.com
 primetap.com
 private.21cn.com
-prmoble.com
-pro.jejes.net
-pro.jejesfb.biz.id
 proton.me
 prtel.com
 pstcc.edu
@@ -829,7 +809,6 @@ si.edu
 siamnow.net
 simplelogin.com
 sina.com.hk
-sini.danka.web.id
 sister.com
 siu.edu
 sizzling.com
@@ -859,6 +838,7 @@ staffmail.ecu.edu.au
 stampmail.com
 starfleet.com
 starline.ee
+starlitmail.com
 startadsl.hu
 startmail.com
 stbc.vic.edu.au
@@ -917,6 +897,7 @@ surewest.net
 surnet.cl
 surrey.ac.uk
 sussex.ac.uk
+svb.brimac.net
 sverige.nu
 swtafe.vic.edu.au
 sydstu.catholic.edu.au
@@ -938,12 +919,11 @@ thegamefanatic.com
 theriver.com
 thinkpost.net
 tidewater.net
+tiding.one
 tightmail.com
 tiki.ne.jp
 tiscali.no
 tistory.com
-toan.triennguyen.com
-toan.trithuc.info
 tokai.or.jp
 totalfoodnut.com
 totally-into-cooking.com
@@ -963,7 +943,6 @@ triton.net
 troycable.net
 truman.edu
 truvista.net
-trytempmail.com
 ttmail.com
 ttnet.com.tr
 ttu.edu
@@ -1180,7 +1159,6 @@ webmaildominiold.aruba.it
 webmailer.1und1.de
 webmessenger.yahoo.com
 webspawner.com
-weempowher.org
 weirdness.com
 westvic.com.au
 wfu.edu
